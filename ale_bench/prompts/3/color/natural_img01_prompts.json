@@ -1,0 +1,205 @@
+{
+    "image": "natural_img01",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "blue globe",
+                    "gray-colored globe"
+                ],
+                [
+                    "cone",
+                    "mint-colored cone"
+                ],
+                [
+                    "box",
+                    "pink-colored box"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "box",
+                    "pink-colored box"
+                ],
+                [
+                    "blue globe",
+                    "beige-colored globe"
+                ],
+                [
+                    "cone",
+                    "khaki-colored cone"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "cone",
+                    "navy-colored cone"
+                ],
+                [
+                    "orange globe",
+                    "cyan-colored globe"
+                ],
+                [
+                    "box",
+                    "rust-colored box"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "blue globe",
+                    "mint-colored globe"
+                ],
+                [
+                    "box",
+                    "beige-colored box"
+                ],
+                [
+                    "orange globe",
+                    "cream-colored globe"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "blue globe",
+                    "orange-colored globe"
+                ],
+                [
+                    "orange globe",
+                    "gray-colored globe"
+                ],
+                [
+                    "box",
+                    "blue-colored box"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "blue globe",
+                    "maroon-colored globe"
+                ],
+                [
+                    "cone",
+                    "mint-colored cone"
+                ],
+                [
+                    "orange globe",
+                    "khaki-colored globe"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "blue globe",
+                    "cream-colored globe"
+                ],
+                [
+                    "orange globe",
+                    "maroon-colored globe"
+                ],
+                [
+                    "box",
+                    "khaki-colored box"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "orange globe",
+                    "pink-colored globe"
+                ],
+                [
+                    "box",
+                    "purple-colored box"
+                ],
+                [
+                    "cone",
+                    "red-colored cone"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "box",
+                    "crimson-colored box"
+                ],
+                [
+                    "cone",
+                    "red-colored cone"
+                ],
+                [
+                    "blue globe",
+                    "cream-colored globe"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "orange globe",
+                    "gray-colored globe"
+                ],
+                [
+                    "cone",
+                    "black-colored cone"
+                ],
+                [
+                    "box",
+                    "gray-colored box"
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "image": "natural_img07",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "computer mouse",
+                    "black-colored rat"
+                ],
+                [
+                    "pen",
+                    "crimson-colored wire"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "pen",
+                    "cyan-colored chopstick"
+                ],
+                [
+                    "computer mouse",
+                    "sepia-colored cheese"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "keyboard",
+                    "khaki-colored calender"
+                ],
+                [
+                    "computer mouse",
+                    "sepia-colored cheese"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "keyboard",
+                    "purple-colored typewriter"
+                ],
+                [
+                    "computer mouse",
+                    "blue-colored pebble"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "keyboard",
+                    "blue-colored musical score"
+                ],
+                [
+                    "computer mouse",
+                    "crimson-colored cheese"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "pen",
+                    "green-colored pencil"
+                ],
+                [
+                    "computer mouse",
+                    "yellow-colored soap"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "keyboard",
+                    "gray-colored musical score"
+                ],
+                [
+                    "computer mouse",
+                    "sepia-colored cheese"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "computer mouse",
+                    "cyan-colored cheese"
+                ],
+                [
+                    "keyboard",
+                    "navy-colored typewriter"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "keyboard",
+                    "brown-colored calender"
+                ],
+                [
+                    "pen",
+                    "maroon-colored chopstick"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "pen",
+                    "gray-colored wire"
+                ],
+                [
+                    "keyboard",
+                    "orange-colored typewriter"
+                ]
+            ]
+        }
+    ]
+}

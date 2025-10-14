@@ -1,0 +1,125 @@
+{
+    "image": "natural_img08",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "green car",
+                    "car made of bronze"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "red car",
+                    "car made of ceramic"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "yellow car",
+                    "car made of resin"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "red car",
+                    "car made of ivory"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "green car",
+                    "car made of amethyst"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "green car",
+                    "car made of glass"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "yellow car",
+                    "car made of amber"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "red car",
+                    "car made of acrylic"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "green car",
+                    "car made of ceramic"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "red car",
+                    "car made of graphite"
+                ]
+            ]
+        }
+    ]
+}

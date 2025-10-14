@@ -1,0 +1,215 @@
+{
+    "image": "natural_img02",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "red bell pepper",
+                    "maroon-colored rock"
+                ],
+                [
+                    "green bell pepper",
+                    "navy-colored dragon head"
+                ],
+                [
+                    "yellow bell pepper",
+                    "khaki-colored apple"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "green bell pepper",
+                    "yellow-colored cheese"
+                ],
+                [
+                    "yellow bell pepper",
+                    "cyan-colored rock"
+                ],
+                [
+                    "red bell pepper",
+                    "orange-colored apple"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "yellow bell pepper",
+                    "sepia-colored ice"
+                ],
+                [
+                    "green bell pepper",
+                    "black-colored rock"
+                ],
+                [
+                    "red bell pepper",
+                    "brown-colored dragon head"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "red bell pepper",
+                    "purple-colored ice"
+                ],
+                [
+                    "green bell pepper",
+                    "cream-colored ice"
+                ],
+                [
+                    "yellow bell pepper",
+                    "mint-colored cheese"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "green bell pepper",
+                    "maroon-colored dragon head"
+                ],
+                [
+                    "yellow bell pepper",
+                    "cyan-colored rock"
+                ],
+                [
+                    "red bell pepper",
+                    "pink-colored dragon head"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "green bell pepper",
+                    "gray-colored ice"
+                ],
+                [
+                    "yellow bell pepper",
+                    "sepia-colored ice"
+                ],
+                [
+                    "red bell pepper",
+                    "gray-colored dragon head"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "yellow bell pepper",
+                    "orange-colored cheese"
+                ],
+                [
+                    "red bell pepper",
+                    "navy-colored ice"
+                ],
+                [
+                    "green bell pepper",
+                    "navy-colored apple"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "green bell pepper",
+                    "navy-colored dragon head"
+                ],
+                [
+                    "yellow bell pepper",
+                    "gray-colored apple"
+                ],
+                [
+                    "red bell pepper",
+                    "maroon-colored dragon head"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "green bell pepper",
+                    "orange-colored apple"
+                ],
+                [
+                    "red bell pepper",
+                    "maroon-colored cheese"
+                ],
+                [
+                    "yellow bell pepper",
+                    "brown-colored dragon head"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "green bell pepper",
+                    "sepia-colored dragon head"
+                ],
+                [
+                    "yellow bell pepper",
+                    "maroon-colored dragon head"
+                ],
+                [
+                    "red bell pepper",
+                    "blue-colored apple"
+                ]
+            ]
+        }
+    ]
+}

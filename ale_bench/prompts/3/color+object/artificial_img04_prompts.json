@@ -1,0 +1,215 @@
+{
+    "image": "artificial_img04",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "parasol",
+                    "red-colored mushroom"
+                ],
+                [
+                    "cloud",
+                    "green-colored cotton candy"
+                ],
+                [
+                    "sun",
+                    "sepia-colored soccer ball"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "parasol",
+                    "green-colored tree"
+                ],
+                [
+                    "sun",
+                    "orange-colored balloon"
+                ],
+                [
+                    "cloud",
+                    "yellow-colored toxic gas"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "cloud",
+                    "mint-colored ghost"
+                ],
+                [
+                    "parasol",
+                    "black-colored flower"
+                ],
+                [
+                    "sun",
+                    "yellow-colored soccer ball"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "sun",
+                    "beige-colored balloon"
+                ],
+                [
+                    "cloud",
+                    "orange-colored ghost"
+                ],
+                [
+                    "parasol",
+                    "purple-colored mushroom"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "sun",
+                    "white-colored UFO"
+                ],
+                [
+                    "cloud",
+                    "blue-colored cotton candy"
+                ],
+                [
+                    "parasol",
+                    "khaki-colored tree"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "cloud",
+                    "khaki-colored cotton candy"
+                ],
+                [
+                    "parasol",
+                    "mint-colored flower"
+                ],
+                [
+                    "sun",
+                    "black-colored soccer ball"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "parasol",
+                    "navy-colored tree"
+                ],
+                [
+                    "sun",
+                    "red-colored UFO"
+                ],
+                [
+                    "cloud",
+                    "blue-colored toxic gas"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "cloud",
+                    "white-colored toxic gas"
+                ],
+                [
+                    "parasol",
+                    "maroon-colored tree"
+                ],
+                [
+                    "sun",
+                    "rust-colored soccer ball"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "cloud",
+                    "cyan-colored cotton candy"
+                ],
+                [
+                    "parasol",
+                    "red-colored tree"
+                ],
+                [
+                    "sun",
+                    "white-colored soccer ball"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "parasol",
+                    "pink-colored mushroom"
+                ],
+                [
+                    "cloud",
+                    "cyan-colored toxic gas"
+                ],
+                [
+                    "sun",
+                    "brown-colored egg"
+                ]
+            ]
+        }
+    ]
+}

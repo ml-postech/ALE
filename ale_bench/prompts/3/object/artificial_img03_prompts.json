@@ -1,0 +1,205 @@
+{
+    "image": "artificial_img03",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "mountain",
+                    "glacier"
+                ],
+                [
+                    "wolf",
+                    "eagle"
+                ],
+                [
+                    "moon",
+                    "soccer ball"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "wolf",
+                    "cat"
+                ],
+                [
+                    "moon",
+                    "UFO"
+                ],
+                [
+                    "mountain",
+                    "hill"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "moon",
+                    "balloon"
+                ],
+                [
+                    "mountain",
+                    "garden"
+                ],
+                [
+                    "wolf",
+                    "cat"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "mountain",
+                    "volcano"
+                ],
+                [
+                    "wolf",
+                    "cat"
+                ],
+                [
+                    "moon",
+                    "balloon"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "moon",
+                    "UFO"
+                ],
+                [
+                    "wolf",
+                    "tiger"
+                ],
+                [
+                    "mountain",
+                    "garden"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "moon",
+                    "UFO"
+                ],
+                [
+                    "wolf",
+                    "eagle"
+                ],
+                [
+                    "mountain",
+                    "glacier"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "wolf",
+                    "tiger"
+                ],
+                [
+                    "mountain",
+                    "forest"
+                ],
+                [
+                    "moon",
+                    "balloon"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "wolf",
+                    "goat"
+                ],
+                [
+                    "moon",
+                    "UFO"
+                ],
+                [
+                    "mountain",
+                    "volcano"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "wolf",
+                    "lion"
+                ],
+                [
+                    "moon",
+                    "soccer ball"
+                ],
+                [
+                    "mountain",
+                    "wave"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "mountain",
+                    "garden"
+                ],
+                [
+                    "wolf",
+                    "lion"
+                ],
+                [
+                    "moon",
+                    "balloon"
+                ]
+            ]
+        }
+    ]
+}

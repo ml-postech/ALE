@@ -1,0 +1,165 @@
+{
+    "image": "natural_img09",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "yoga mat",
+                    "blanket"
+                ],
+                [
+                    "footwear",
+                    "ballet flats"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "footwear",
+                    "sneakers"
+                ],
+                [
+                    "man",
+                    "alien"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "man",
+                    "male student"
+                ],
+                [
+                    "footwear",
+                    "sandals"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "man",
+                    "male athlete"
+                ],
+                [
+                    "footwear",
+                    "boots"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "man",
+                    "male student"
+                ],
+                [
+                    "yoga mat",
+                    "towel"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "yoga mat",
+                    "gym mat"
+                ],
+                [
+                    "man",
+                    "alien"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "man",
+                    "alien"
+                ],
+                [
+                    "footwear",
+                    "high heels"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "footwear",
+                    "clogs"
+                ],
+                [
+                    "man",
+                    "male student"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "yoga mat",
+                    "ice"
+                ],
+                [
+                    "man",
+                    "male athlete"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "footwear",
+                    "boots"
+                ],
+                [
+                    "man",
+                    "old man"
+                ]
+            ]
+        }
+    ]
+}

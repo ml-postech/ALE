@@ -1,0 +1,205 @@
+{
+    "image": "artificial_img02",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "table",
+                    "dining table"
+                ],
+                [
+                    "houseplant",
+                    "herb"
+                ],
+                [
+                    "flowerpot",
+                    "jar"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "flowerpot",
+                    "vase"
+                ],
+                [
+                    "table",
+                    "nightstand"
+                ],
+                [
+                    "houseplant",
+                    "bush"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "houseplant",
+                    "succulent"
+                ],
+                [
+                    "flowerpot",
+                    "lantern"
+                ],
+                [
+                    "table",
+                    "bench"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "table",
+                    "nightstand"
+                ],
+                [
+                    "flowerpot",
+                    "mug"
+                ],
+                [
+                    "houseplant",
+                    "broccoli"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "houseplant",
+                    "bonsai"
+                ],
+                [
+                    "flowerpot",
+                    "lantern"
+                ],
+                [
+                    "table",
+                    "coffee table"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "houseplant",
+                    "cactus"
+                ],
+                [
+                    "table",
+                    "dining table"
+                ],
+                [
+                    "flowerpot",
+                    "bucket"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "houseplant",
+                    "herb"
+                ],
+                [
+                    "table",
+                    "dining table"
+                ],
+                [
+                    "flowerpot",
+                    "vase"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "houseplant",
+                    "broccoli"
+                ],
+                [
+                    "flowerpot",
+                    "basket"
+                ],
+                [
+                    "table",
+                    "coffee table"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "houseplant",
+                    "tree"
+                ],
+                [
+                    "flowerpot",
+                    "vase"
+                ],
+                [
+                    "table",
+                    "dining table"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "table",
+                    "nightstand"
+                ],
+                [
+                    "flowerpot",
+                    "mug"
+                ],
+                [
+                    "houseplant",
+                    "cactus"
+                ]
+            ]
+        }
+    ]
+}

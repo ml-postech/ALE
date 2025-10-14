@@ -1,0 +1,125 @@
+{
+    "image": "artificial_img10",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "wall",
+                    "partition"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "lawn"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "flowerpot",
+                    "jar"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "wall",
+                    "curtain"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "wall",
+                    "window"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "lake"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "flowerpot",
+                    "vase"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "tree",
+                    "cloud tree"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "flowerpot",
+                    "bucket"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "flowerpot",
+                    "lantern"
+                ]
+            ]
+        }
+    ]
+}

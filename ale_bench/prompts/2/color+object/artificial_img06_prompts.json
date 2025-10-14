@@ -1,0 +1,175 @@
+{
+    "image": "artificial_img06",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "chair",
+                    "black-colored stool"
+                ],
+                [
+                    "floor",
+                    "beige-colored mat"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "maroon-colored active fire area"
+                ],
+                [
+                    "chair",
+                    "blue-colored stool"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "maroon-colored lake"
+                ],
+                [
+                    "chair",
+                    "cyan-colored bench"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "khaki-colored savanna"
+                ],
+                [
+                    "teapot",
+                    "mint-colored coffee pot"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "table",
+                    "pink-colored bench"
+                ],
+                [
+                    "floor",
+                    "crimson-colored lawn"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "chair",
+                    "brown-colored recliner"
+                ],
+                [
+                    "teapot",
+                    "blue-colored stewpot"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "cream-colored desert"
+                ],
+                [
+                    "teapot",
+                    "blue-colored stewpot"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "chair",
+                    "green-colored gaming chair"
+                ],
+                [
+                    "floor",
+                    "green-colored savanna"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "table",
+                    "yellow-colored dining table"
+                ],
+                [
+                    "floor",
+                    "crimson-colored carpet"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "chair",
+                    "green-colored office chair"
+                ],
+                [
+                    "teapot",
+                    "crimson-colored stewpot"
+                ]
+            ]
+        }
+    ]
+}

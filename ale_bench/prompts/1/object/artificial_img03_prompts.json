@@ -1,0 +1,125 @@
+{
+    "image": "artificial_img03",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "mountain",
+                    "wave"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "mountain",
+                    "forest"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "wolf",
+                    "dog"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "moon",
+                    "balloon"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "moon",
+                    "UFO"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "wolf",
+                    "lion"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "mountain",
+                    "garden"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "wolf",
+                    "eagle"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "wolf",
+                    "tiger"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "moon",
+                    "soccer ball"
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,215 @@
+{
+    "image": "artificial_img04",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "parasol",
+                    "tree made of resin"
+                ],
+                [
+                    "sun",
+                    "egg made of aluminum"
+                ],
+                [
+                    "cloud",
+                    "toxic gas made of gold"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "parasol",
+                    "flower made of glass"
+                ],
+                [
+                    "cloud",
+                    "cotton candy made of clay"
+                ],
+                [
+                    "sun",
+                    "UFO made of foam"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "cloud",
+                    "toxic gas made of rubber"
+                ],
+                [
+                    "sun",
+                    "moon made of sapphire"
+                ],
+                [
+                    "parasol",
+                    "flower made of silver"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "cloud",
+                    "cotton candy made of ivory"
+                ],
+                [
+                    "parasol",
+                    "flower made of linen"
+                ],
+                [
+                    "sun",
+                    "soccer ball made of chrome"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "parasol",
+                    "mushroom made of velvet"
+                ],
+                [
+                    "cloud",
+                    "toxic gas made of amethyst"
+                ],
+                [
+                    "sun",
+                    "UFO made of clay"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "sun",
+                    "balloon made of concrete"
+                ],
+                [
+                    "cloud",
+                    "ghost made of ivory"
+                ],
+                [
+                    "parasol",
+                    "tree made of wool"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "parasol",
+                    "tree made of sapphire"
+                ],
+                [
+                    "cloud",
+                    "cotton candy made of marble"
+                ],
+                [
+                    "sun",
+                    "UFO made of jade"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "parasol",
+                    "mushroom made of acrylic"
+                ],
+                [
+                    "cloud",
+                    "ghost made of concrete"
+                ],
+                [
+                    "sun",
+                    "balloon made of plastic"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "sun",
+                    "balloon made of crystal"
+                ],
+                [
+                    "cloud",
+                    "cotton candy made of emerald"
+                ],
+                [
+                    "parasol",
+                    "flower made of diamond"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "parasol",
+                    "flower made of paper"
+                ],
+                [
+                    "sun",
+                    "moon made of jade"
+                ],
+                [
+                    "cloud",
+                    "toxic gas made of amber"
+                ]
+            ]
+        }
+    ]
+}

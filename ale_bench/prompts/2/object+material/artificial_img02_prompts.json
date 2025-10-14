@@ -1,0 +1,175 @@
+{
+    "image": "artificial_img02",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "houseplant",
+                    "tree made of turquoise"
+                ],
+                [
+                    "table",
+                    "bench made of paper"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "houseplant",
+                    "bonsai made of linen"
+                ],
+                [
+                    "flowerpot",
+                    "mug made of paper"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "flowerpot",
+                    "lantern made of wood"
+                ],
+                [
+                    "table",
+                    "coffee table made of crystal"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "houseplant",
+                    "fern made of granite"
+                ],
+                [
+                    "table",
+                    "bench made of latex"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "flowerpot",
+                    "bucket made of concrete"
+                ],
+                [
+                    "houseplant",
+                    "bonsai made of steel"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "houseplant",
+                    "bonsai made of silver"
+                ],
+                [
+                    "table",
+                    "dining table made of wood"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "houseplant",
+                    "tree made of velvet"
+                ],
+                [
+                    "flowerpot",
+                    "lantern made of amber"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "flowerpot",
+                    "lantern made of linen"
+                ],
+                [
+                    "table",
+                    "coffee table made of emerald"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "table",
+                    "bench made of concrete"
+                ],
+                [
+                    "houseplant",
+                    "herb made of linen"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "houseplant",
+                    "cactus made of amber"
+                ],
+                [
+                    "flowerpot",
+                    "vase made of ceramic"
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,135 @@
+{
+    "image": "natural_img07",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "keyboard",
+                    "typewriter made of rubber"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "computer mouse",
+                    "cheese made of leather"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "computer mouse",
+                    "cheese made of asphalt"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "keyboard",
+                    "musical score made of jade"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "keyboard",
+                    "musical score made of rubber"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "pen",
+                    "chopstick made of resin"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "keyboard",
+                    "musical score made of graphite"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "pen",
+                    "branch made of sapphire"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "pen",
+                    "wire made of resin"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "keyboard",
+                    "typewriter made of ivory"
+                ]
+            ]
+        }
+    ]
+}

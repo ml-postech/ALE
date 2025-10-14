@@ -1,0 +1,175 @@
+{
+    "image": "artificial_img06",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "teapot",
+                    "coffee pot made of silk"
+                ],
+                [
+                    "table",
+                    "dining table made of concrete"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "savanna made of linen"
+                ],
+                [
+                    "chair",
+                    "office chair made of silk"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "chair",
+                    "office chair made of asphalt"
+                ],
+                [
+                    "floor",
+                    "carpet made of ruby"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "chair",
+                    "stool made of bamboo"
+                ],
+                [
+                    "teapot",
+                    "teacup made of amethyst"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "teapot",
+                    "coffee pot made of bronze"
+                ],
+                [
+                    "chair",
+                    "bench made of emerald"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "lawn made of linen"
+                ],
+                [
+                    "teapot",
+                    "stewpot made of velvet"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "chair",
+                    "gaming chair made of linen"
+                ],
+                [
+                    "teapot",
+                    "stewpot made of ruby"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "table",
+                    "bench made of ruby"
+                ],
+                [
+                    "floor",
+                    "lawn made of foam"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "table",
+                    "coffee table made of graphite"
+                ],
+                [
+                    "floor",
+                    "ground made of aluminum"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "table",
+                    "coffee table made of bamboo"
+                ],
+                [
+                    "teapot",
+                    "teacup made of concrete"
+                ]
+            ]
+        }
+    ]
+}

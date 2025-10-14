@@ -1,0 +1,165 @@
+{
+    "image": "artificial_img04",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "sun",
+                    "soccer ball"
+                ],
+                [
+                    "parasol",
+                    "mushroom"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "cloud",
+                    "ghost"
+                ],
+                [
+                    "parasol",
+                    "mushroom"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "cloud",
+                    "toxic gas"
+                ],
+                [
+                    "parasol",
+                    "mushroom"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "sun",
+                    "balloon"
+                ],
+                [
+                    "parasol",
+                    "mushroom"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "parasol",
+                    "flower"
+                ],
+                [
+                    "sun",
+                    "moon"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "parasol",
+                    "tree"
+                ],
+                [
+                    "cloud",
+                    "cotton candy"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "parasol",
+                    "mushroom"
+                ],
+                [
+                    "cloud",
+                    "ghost"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "cloud",
+                    "cotton candy"
+                ],
+                [
+                    "parasol",
+                    "mushroom"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "sun",
+                    "moon"
+                ],
+                [
+                    "parasol",
+                    "tree"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "parasol",
+                    "mushroom"
+                ],
+                [
+                    "sun",
+                    "moon"
+                ]
+            ]
+        }
+    ]
+}

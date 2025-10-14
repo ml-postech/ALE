@@ -1,0 +1,125 @@
+{
+    "image": "artificial_img03",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "mountain",
+                    "mountain made of bronze"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "wolf",
+                    "wolf made of foam"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "wolf",
+                    "wolf made of ivory"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "wolf",
+                    "wolf made of concrete"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "wolf",
+                    "wolf made of bamboo"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "moon",
+                    "moon made of aluminum"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "moon",
+                    "moon made of amethyst"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "wolf",
+                    "wolf made of silk"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "mountain",
+                    "mountain made of velvet"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "moon",
+                    "moon made of turquoise"
+                ]
+            ]
+        }
+    ]
+}

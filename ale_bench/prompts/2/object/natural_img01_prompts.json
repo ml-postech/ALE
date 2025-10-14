@@ -1,0 +1,165 @@
+{
+    "image": "natural_img01",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "orange globe",
+                    "soccer ball"
+                ],
+                [
+                    "blue globe",
+                    "balloon"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "orange globe",
+                    "moon"
+                ],
+                [
+                    "cone",
+                    "Christmas tree"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "cone",
+                    "waffle cone"
+                ],
+                [
+                    "blue globe",
+                    "egg"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "cone",
+                    "Christmas tree"
+                ],
+                [
+                    "box",
+                    "sponge"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "cone",
+                    "traffic cone"
+                ],
+                [
+                    "orange globe",
+                    "moon"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "cone",
+                    "Christmas tree"
+                ],
+                [
+                    "blue globe",
+                    "tree"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "orange globe",
+                    "balloon"
+                ],
+                [
+                    "blue globe",
+                    "ice"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "orange globe",
+                    "moon"
+                ],
+                [
+                    "blue globe",
+                    "balloon"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "box",
+                    "meal box"
+                ],
+                [
+                    "cone",
+                    "traffic cone"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "orange globe",
+                    "soccer ball"
+                ],
+                [
+                    "box",
+                    "meal box"
+                ]
+            ]
+        }
+    ]
+}

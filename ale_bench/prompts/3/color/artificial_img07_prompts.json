@@ -1,0 +1,205 @@
+{
+    "image": "artificial_img07",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "pizza",
+                    "red-colored pizza"
+                ],
+                [
+                    "dress",
+                    "green-colored dress"
+                ],
+                [
+                    "hair",
+                    "navy-colored hair"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "dress",
+                    "orange-colored dress"
+                ],
+                [
+                    "boat",
+                    "gray-colored boat"
+                ],
+                [
+                    "hair",
+                    "cyan-colored hair"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "pizza",
+                    "blue-colored pizza"
+                ],
+                [
+                    "boat",
+                    "red-colored boat"
+                ],
+                [
+                    "hair",
+                    "pink-colored hair"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "pizza",
+                    "black-colored pizza"
+                ],
+                [
+                    "hair",
+                    "white-colored hair"
+                ],
+                [
+                    "dress",
+                    "purple-colored dress"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "boat",
+                    "purple-colored boat"
+                ],
+                [
+                    "hair",
+                    "pink-colored hair"
+                ],
+                [
+                    "dress",
+                    "red-colored dress"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "pizza",
+                    "red-colored pizza"
+                ],
+                [
+                    "hair",
+                    "orange-colored hair"
+                ],
+                [
+                    "dress",
+                    "maroon-colored dress"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "dress",
+                    "gray-colored dress"
+                ],
+                [
+                    "pizza",
+                    "cyan-colored pizza"
+                ],
+                [
+                    "hair",
+                    "black-colored hair"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "boat",
+                    "cream-colored boat"
+                ],
+                [
+                    "pizza",
+                    "sepia-colored pizza"
+                ],
+                [
+                    "dress",
+                    "beige-colored dress"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "dress",
+                    "orange-colored dress"
+                ],
+                [
+                    "hair",
+                    "pink-colored hair"
+                ],
+                [
+                    "boat",
+                    "pink-colored boat"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "hair",
+                    "brown-colored hair"
+                ],
+                [
+                    "boat",
+                    "sepia-colored boat"
+                ],
+                [
+                    "pizza",
+                    "beige-colored pizza"
+                ]
+            ]
+        }
+    ]
+}

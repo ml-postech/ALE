@@ -1,0 +1,175 @@
+{
+    "image": "natural_img06",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "sunglass",
+                    "orange-colored goggles"
+                ],
+                [
+                    "watch",
+                    "pink-colored compass"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "knife",
+                    "beige-colored chisel"
+                ],
+                [
+                    "watch",
+                    "red-colored pocket watch"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "knife",
+                    "yellow-colored chisel"
+                ],
+                [
+                    "watch",
+                    "blue-colored timer"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "watch",
+                    "black-colored compass"
+                ],
+                [
+                    "knife",
+                    "blue-colored hatchet"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "sunglass",
+                    "khaki-colored glasses"
+                ],
+                [
+                    "knife",
+                    "blue-colored spoon"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "watch",
+                    "black-colored compass"
+                ],
+                [
+                    "sunglass",
+                    "crimson-colored goggles"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "watch",
+                    "black-colored sundial"
+                ],
+                [
+                    "sunglass",
+                    "orange-colored safety glasses"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "watch",
+                    "beige-colored sundial"
+                ],
+                [
+                    "knife",
+                    "white-colored scissors"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "watch",
+                    "rust-colored compass"
+                ],
+                [
+                    "knife",
+                    "beige-colored axe"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "sunglass",
+                    "navy-colored safety glasses"
+                ],
+                [
+                    "knife",
+                    "maroon-colored axe"
+                ]
+            ]
+        }
+    ]
+}

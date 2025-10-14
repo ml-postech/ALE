@@ -1,0 +1,125 @@
+{
+    "image": "artificial_img02",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "flowerpot",
+                    "flowerpot made of diamond"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "table",
+                    "table made of velvet"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "flowerpot",
+                    "flowerpot made of silk"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "table",
+                    "table made of steel"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "houseplant",
+                    "houseplant made of amber"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "flowerpot",
+                    "flowerpot made of ivory"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "houseplant",
+                    "houseplant made of silk"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "flowerpot",
+                    "flowerpot made of asphalt"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "flowerpot",
+                    "flowerpot made of sapphire"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "table",
+                    "table made of concrete"
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "image": "natural_img03",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "boy",
+                    "boy made of bronze"
+                ],
+                [
+                    "shirt",
+                    "shirt made of acrylic"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "boy",
+                    "boy made of ivory"
+                ],
+                [
+                    "shirt",
+                    "shirt made of steel"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "shirt",
+                    "shirt made of acrylic"
+                ],
+                [
+                    "girl",
+                    "girl made of copper"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "girl",
+                    "girl made of amber"
+                ],
+                [
+                    "boy",
+                    "boy made of gold"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "girl",
+                    "girl made of leather"
+                ],
+                [
+                    "boy",
+                    "boy made of silk"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "boy",
+                    "boy made of foam"
+                ],
+                [
+                    "shirt",
+                    "shirt made of chrome"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "girl",
+                    "girl made of aluminum"
+                ],
+                [
+                    "boy",
+                    "boy made of plastic"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "girl",
+                    "girl made of acrylic"
+                ],
+                [
+                    "shirt",
+                    "shirt made of rubber"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "girl",
+                    "girl made of silver"
+                ],
+                [
+                    "shirt",
+                    "shirt made of acrylic"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "girl",
+                    "girl made of ivory"
+                ],
+                [
+                    "boy",
+                    "boy made of amethyst"
+                ]
+            ]
+        }
+    ]
+}

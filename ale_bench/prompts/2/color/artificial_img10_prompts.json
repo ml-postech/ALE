@@ -1,0 +1,165 @@
+{
+    "image": "artificial_img10",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "black-colored floor"
+                ],
+                [
+                    "tree",
+                    "white-colored tree"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "flowerpot",
+                    "yellow-colored flowerpot"
+                ],
+                [
+                    "floor",
+                    "khaki-colored floor"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "flowerpot",
+                    "orange-colored flowerpot"
+                ],
+                [
+                    "wall",
+                    "white-colored wall"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "flowerpot",
+                    "blue-colored flowerpot"
+                ],
+                [
+                    "tree",
+                    "purple-colored tree"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "wall",
+                    "crimson-colored wall"
+                ],
+                [
+                    "floor",
+                    "gray-colored floor"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "cyan-colored floor"
+                ],
+                [
+                    "tree",
+                    "gray-colored tree"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "cream-colored floor"
+                ],
+                [
+                    "flowerpot",
+                    "khaki-colored flowerpot"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "green-colored floor"
+                ],
+                [
+                    "flowerpot",
+                    "sepia-colored flowerpot"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "tree",
+                    "brown-colored tree"
+                ],
+                [
+                    "flowerpot",
+                    "sepia-colored flowerpot"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "wall",
+                    "green-colored wall"
+                ],
+                [
+                    "tree",
+                    "black-colored tree"
+                ]
+            ]
+        }
+    ]
+}

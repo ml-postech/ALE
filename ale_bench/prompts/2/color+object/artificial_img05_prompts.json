@@ -1,0 +1,175 @@
+{
+    "image": "artificial_img05",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "steam",
+                    "blue-colored toxic gas"
+                ],
+                [
+                    "cup",
+                    "gray-colored mug"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "book",
+                    "red-colored research paper"
+                ],
+                [
+                    "steam",
+                    "white-colored smoke"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "book",
+                    "cream-colored platform"
+                ],
+                [
+                    "steam",
+                    "khaki-colored smoke"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "cup",
+                    "orange-colored chalice"
+                ],
+                [
+                    "book",
+                    "pink-colored journal"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "steam",
+                    "gray-colored smoke"
+                ],
+                [
+                    "cup",
+                    "blue-colored jar"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "book",
+                    "rust-colored journal"
+                ],
+                [
+                    "cup",
+                    "beige-colored jar"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "cup",
+                    "gray-colored beaker"
+                ],
+                [
+                    "book",
+                    "gray-colored magazine"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "steam",
+                    "brown-colored ghost"
+                ],
+                [
+                    "book",
+                    "orange-colored platform"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "cup",
+                    "orange-colored jar"
+                ],
+                [
+                    "book",
+                    "khaki-colored magazine"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "book",
+                    "green-colored tablet"
+                ],
+                [
+                    "steam",
+                    "crimson-colored tornado"
+                ]
+            ]
+        }
+    ]
+}

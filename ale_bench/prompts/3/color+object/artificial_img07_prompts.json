@@ -1,0 +1,215 @@
+{
+    "image": "artificial_img07",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "hair",
+                    "brown-colored curly hair"
+                ],
+                [
+                    "boat",
+                    "brown-colored yacht"
+                ],
+                [
+                    "pizza",
+                    "beige-colored steak"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "pizza",
+                    "khaki-colored pasta"
+                ],
+                [
+                    "hair",
+                    "navy-colored short hair"
+                ],
+                [
+                    "boat",
+                    "crimson-colored yacht"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "boat",
+                    "mint-colored ferry"
+                ],
+                [
+                    "hair",
+                    "navy-colored braided hair"
+                ],
+                [
+                    "dress",
+                    "black-colored kimono"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "hair",
+                    "khaki-colored braided hair"
+                ],
+                [
+                    "boat",
+                    "brown-colored submarine"
+                ],
+                [
+                    "pizza",
+                    "red-colored pasta"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "pizza",
+                    "crimson-colored steak"
+                ],
+                [
+                    "dress",
+                    "maroon-colored blouse"
+                ],
+                [
+                    "hair",
+                    "maroon-colored curly hair"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "hair",
+                    "yellow-colored braided hair"
+                ],
+                [
+                    "dress",
+                    "crimson-colored kimono"
+                ],
+                [
+                    "pizza",
+                    "rust-colored flatbread"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "dress",
+                    "khaki-colored blouse"
+                ],
+                [
+                    "hair",
+                    "blue-colored afro hair"
+                ],
+                [
+                    "boat",
+                    "red-colored yacht"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "pizza",
+                    "gray-colored sandwich"
+                ],
+                [
+                    "dress",
+                    "black-colored jumpsuit"
+                ],
+                [
+                    "hair",
+                    "cream-colored curly hair"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "hair",
+                    "cream-colored curly hair"
+                ],
+                [
+                    "dress",
+                    "purple-colored jumpsuit"
+                ],
+                [
+                    "pizza",
+                    "beige-colored steak"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "pizza",
+                    "khaki-colored steak"
+                ],
+                [
+                    "dress",
+                    "mint-colored gown"
+                ],
+                [
+                    "boat",
+                    "maroon-colored yacht"
+                ]
+            ]
+        }
+    ]
+}

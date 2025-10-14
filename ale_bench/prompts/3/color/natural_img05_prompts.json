@@ -1,0 +1,205 @@
+{
+    "image": "natural_img05",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "white pot",
+                    "beige-colored pot"
+                ],
+                [
+                    "sketchbook",
+                    "maroon-colored sketchbook"
+                ],
+                [
+                    "plant",
+                    "navy-colored plant"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "white pot",
+                    "cyan-colored pot"
+                ],
+                [
+                    "sketchbook",
+                    "gray-colored sketchbook"
+                ],
+                [
+                    "plant",
+                    "cream-colored plant"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "sketchbook",
+                    "red-colored sketchbook"
+                ],
+                [
+                    "white pot",
+                    "cream-colored pot"
+                ],
+                [
+                    "plant",
+                    "navy-colored plant"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "sketchbook",
+                    "yellow-colored sketchbook"
+                ],
+                [
+                    "white pot",
+                    "mint-colored pot"
+                ],
+                [
+                    "plant",
+                    "green-colored plant"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "white pot",
+                    "white-colored pot"
+                ],
+                [
+                    "sketchbook",
+                    "white-colored sketchbook"
+                ],
+                [
+                    "plant",
+                    "rust-colored plant"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "sketchbook",
+                    "orange-colored sketchbook"
+                ],
+                [
+                    "white pot",
+                    "cream-colored pot"
+                ],
+                [
+                    "plant",
+                    "black-colored plant"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "plant",
+                    "orange-colored plant"
+                ],
+                [
+                    "white pot",
+                    "red-colored pot"
+                ],
+                [
+                    "sketchbook",
+                    "rust-colored sketchbook"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "white pot",
+                    "beige-colored pot"
+                ],
+                [
+                    "sketchbook",
+                    "maroon-colored sketchbook"
+                ],
+                [
+                    "plant",
+                    "maroon-colored plant"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "sketchbook",
+                    "brown-colored sketchbook"
+                ],
+                [
+                    "plant",
+                    "black-colored plant"
+                ],
+                [
+                    "white pot",
+                    "khaki-colored pot"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "sketchbook",
+                    "cream-colored sketchbook"
+                ],
+                [
+                    "white pot",
+                    "gray-colored pot"
+                ],
+                [
+                    "plant",
+                    "purple-colored plant"
+                ]
+            ]
+        }
+    ]
+}

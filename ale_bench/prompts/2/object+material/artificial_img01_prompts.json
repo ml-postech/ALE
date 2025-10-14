@@ -1,0 +1,175 @@
+{
+    "image": "artificial_img01",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "tree",
+                    "pine tree made of ivory"
+                ],
+                [
+                    "couch",
+                    "bench made of ruby"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "tree",
+                    "maple tree made of glass"
+                ],
+                [
+                    "couch",
+                    "desk made of gold"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "couch",
+                    "bed made of diamond"
+                ],
+                [
+                    "floor",
+                    "savanna made of chrome"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "deck made of amber"
+                ],
+                [
+                    "tree",
+                    "palm tree made of ivory"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "tree",
+                    "oak tree made of diamond"
+                ],
+                [
+                    "couch",
+                    "bed made of turquoise"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "couch",
+                    "bed made of foam"
+                ],
+                [
+                    "tree",
+                    "pine tree made of silver"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "tree",
+                    "pine tree made of ruby"
+                ],
+                [
+                    "floor",
+                    "wheat field made of asphalt"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "couch",
+                    "bench made of paper"
+                ],
+                [
+                    "tree",
+                    "oak tree made of steel"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "tree",
+                    "oak tree made of ivory"
+                ],
+                [
+                    "floor",
+                    "active fire area made of wool"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "couch",
+                    "desk made of amber"
+                ],
+                [
+                    "floor",
+                    "desert made of leather"
+                ]
+            ]
+        }
+    ]
+}

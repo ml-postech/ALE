@@ -1,0 +1,215 @@
+{
+    "image": "natural_img10",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "yellow macaron",
+                    "navy-colored brownie"
+                ],
+                [
+                    "plate",
+                    "beige-colored dish"
+                ],
+                [
+                    "green macaron",
+                    "khaki-colored muffin"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "green macaron",
+                    "cream-colored donut"
+                ],
+                [
+                    "plate",
+                    "cream-colored tray"
+                ],
+                [
+                    "pink macaron",
+                    "mint-colored cookie"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "yellow macaron",
+                    "red-colored muffin"
+                ],
+                [
+                    "plate",
+                    "rust-colored tureen"
+                ],
+                [
+                    "pink macaron",
+                    "black-colored cookie"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "pink macaron",
+                    "maroon-colored butter"
+                ],
+                [
+                    "plate",
+                    "maroon-colored dish"
+                ],
+                [
+                    "green macaron",
+                    "white-colored donut"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "green macaron",
+                    "red-colored cookie"
+                ],
+                [
+                    "plate",
+                    "khaki-colored saucer"
+                ],
+                [
+                    "yellow macaron",
+                    "orange-colored donut"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "plate",
+                    "brown-colored tray"
+                ],
+                [
+                    "green macaron",
+                    "cream-colored cookie"
+                ],
+                [
+                    "yellow macaron",
+                    "gray-colored cake"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "plate",
+                    "white-colored tureen"
+                ],
+                [
+                    "green macaron",
+                    "crimson-colored eclair"
+                ],
+                [
+                    "pink macaron",
+                    "maroon-colored cake"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "plate",
+                    "beige-colored saucer"
+                ],
+                [
+                    "green macaron",
+                    "white-colored eclair"
+                ],
+                [
+                    "pink macaron",
+                    "gray-colored scone"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "yellow macaron",
+                    "mint-colored chocolate"
+                ],
+                [
+                    "plate",
+                    "navy-colored saucer"
+                ],
+                [
+                    "green macaron",
+                    "yellow-colored eclair"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "yellow macaron",
+                    "maroon-colored muffin"
+                ],
+                [
+                    "pink macaron",
+                    "cyan-colored brownie"
+                ],
+                [
+                    "green macaron",
+                    "mint-colored tofu"
+                ]
+            ]
+        }
+    ]
+}

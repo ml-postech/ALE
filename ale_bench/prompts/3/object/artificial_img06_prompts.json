@@ -1,0 +1,205 @@
+{
+    "image": "artificial_img06",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "swamp"
+                ],
+                [
+                    "table",
+                    "bench"
+                ],
+                [
+                    "teapot",
+                    "teacup"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "teapot",
+                    "stewpot"
+                ],
+                [
+                    "floor",
+                    "swamp"
+                ],
+                [
+                    "table",
+                    "coffee table"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "chair",
+                    "stool"
+                ],
+                [
+                    "floor",
+                    "carpet"
+                ],
+                [
+                    "table",
+                    "coffee table"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "chair",
+                    "bench"
+                ],
+                [
+                    "floor",
+                    "lawn"
+                ],
+                [
+                    "table",
+                    "coffee table"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "sea"
+                ],
+                [
+                    "teapot",
+                    "stewpot"
+                ],
+                [
+                    "chair",
+                    "stool"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "teapot",
+                    "coffee pot"
+                ],
+                [
+                    "chair",
+                    "gaming chair"
+                ],
+                [
+                    "table",
+                    "dining table"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "teapot",
+                    "stewpot"
+                ],
+                [
+                    "table",
+                    "coffee table"
+                ],
+                [
+                    "chair",
+                    "gaming chair"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "teapot",
+                    "stewpot"
+                ],
+                [
+                    "floor",
+                    "active fire area"
+                ],
+                [
+                    "chair",
+                    "bench"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "teapot",
+                    "teacup"
+                ],
+                [
+                    "floor",
+                    "sea"
+                ],
+                [
+                    "table",
+                    "coffee table"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "table",
+                    "nightstand"
+                ],
+                [
+                    "chair",
+                    "throne"
+                ],
+                [
+                    "floor",
+                    "lawn"
+                ]
+            ]
+        }
+    ]
+}

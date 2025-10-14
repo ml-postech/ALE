@@ -1,0 +1,215 @@
+{
+    "image": "artificial_img05",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "steam",
+                    "cloud made of wood"
+                ],
+                [
+                    "book",
+                    "research paper made of wood"
+                ],
+                [
+                    "cup",
+                    "jar made of bamboo"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "cup",
+                    "jar made of linen"
+                ],
+                [
+                    "book",
+                    "cushion made of jade"
+                ],
+                [
+                    "steam",
+                    "smog made of plastic"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "cup",
+                    "chalice made of rubber"
+                ],
+                [
+                    "steam",
+                    "ghost made of resin"
+                ],
+                [
+                    "book",
+                    "research paper made of marble"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "book",
+                    "platform made of gold"
+                ],
+                [
+                    "cup",
+                    "beaker made of amethyst"
+                ],
+                [
+                    "steam",
+                    "smog made of silver"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "cup",
+                    "bowl made of aluminum"
+                ],
+                [
+                    "book",
+                    "journal made of plastic"
+                ],
+                [
+                    "steam",
+                    "smoke made of jade"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "cup",
+                    "jar made of latex"
+                ],
+                [
+                    "steam",
+                    "ghost made of wood"
+                ],
+                [
+                    "book",
+                    "cushion made of steel"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "steam",
+                    "smog made of plastic"
+                ],
+                [
+                    "cup",
+                    "bowl made of silver"
+                ],
+                [
+                    "book",
+                    "magazine made of wool"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "cup",
+                    "beaker made of ceramic"
+                ],
+                [
+                    "book",
+                    "tablet made of amethyst"
+                ],
+                [
+                    "steam",
+                    "ghost made of granite"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "book",
+                    "research paper made of concrete"
+                ],
+                [
+                    "cup",
+                    "beaker made of amber"
+                ],
+                [
+                    "steam",
+                    "toxic gas made of copper"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "cup",
+                    "tumbler made of foam"
+                ],
+                [
+                    "book",
+                    "tablet made of ceramic"
+                ],
+                [
+                    "steam",
+                    "ghost made of leather"
+                ]
+            ]
+        }
+    ]
+}

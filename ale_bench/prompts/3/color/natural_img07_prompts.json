@@ -1,0 +1,205 @@
+{
+    "image": "natural_img07",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "pen",
+                    "brown-colored pen"
+                ],
+                [
+                    "keyboard",
+                    "brown-colored keyboard"
+                ],
+                [
+                    "computer mouse",
+                    "maroon-colored computer mouse"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "computer mouse",
+                    "pink-colored computer mouse"
+                ],
+                [
+                    "keyboard",
+                    "brown-colored keyboard"
+                ],
+                [
+                    "pen",
+                    "brown-colored pen"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "computer mouse",
+                    "blue-colored computer mouse"
+                ],
+                [
+                    "pen",
+                    "rust-colored pen"
+                ],
+                [
+                    "keyboard",
+                    "orange-colored keyboard"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "pen",
+                    "khaki-colored pen"
+                ],
+                [
+                    "keyboard",
+                    "brown-colored keyboard"
+                ],
+                [
+                    "computer mouse",
+                    "cyan-colored computer mouse"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "pen",
+                    "crimson-colored pen"
+                ],
+                [
+                    "keyboard",
+                    "brown-colored keyboard"
+                ],
+                [
+                    "computer mouse",
+                    "khaki-colored computer mouse"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "computer mouse",
+                    "crimson-colored computer mouse"
+                ],
+                [
+                    "keyboard",
+                    "brown-colored keyboard"
+                ],
+                [
+                    "pen",
+                    "navy-colored pen"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "keyboard",
+                    "red-colored keyboard"
+                ],
+                [
+                    "computer mouse",
+                    "brown-colored computer mouse"
+                ],
+                [
+                    "pen",
+                    "maroon-colored pen"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "computer mouse",
+                    "purple-colored computer mouse"
+                ],
+                [
+                    "keyboard",
+                    "sepia-colored keyboard"
+                ],
+                [
+                    "pen",
+                    "yellow-colored pen"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "pen",
+                    "white-colored pen"
+                ],
+                [
+                    "computer mouse",
+                    "beige-colored computer mouse"
+                ],
+                [
+                    "keyboard",
+                    "green-colored keyboard"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "pen",
+                    "cyan-colored pen"
+                ],
+                [
+                    "keyboard",
+                    "gray-colored keyboard"
+                ],
+                [
+                    "computer mouse",
+                    "pink-colored computer mouse"
+                ]
+            ]
+        }
+    ]
+}

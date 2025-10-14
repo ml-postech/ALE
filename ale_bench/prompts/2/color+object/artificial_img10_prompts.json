@@ -1,0 +1,175 @@
+{
+    "image": "artificial_img10",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "flowerpot",
+                    "pink-colored basket"
+                ],
+                [
+                    "floor",
+                    "cream-colored lawn"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "flowerpot",
+                    "white-colored mug"
+                ],
+                [
+                    "tree",
+                    "beige-colored Christmas tree"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "wall",
+                    "gray-colored window"
+                ],
+                [
+                    "tree",
+                    "crimson-colored cotton candy tree"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "flowerpot",
+                    "khaki-colored urn"
+                ],
+                [
+                    "floor",
+                    "navy-colored deck"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "brown-colored swamp"
+                ],
+                [
+                    "flowerpot",
+                    "pink-colored lantern"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "flowerpot",
+                    "maroon-colored bucket"
+                ],
+                [
+                    "wall",
+                    "beige-colored fence"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "wall",
+                    "mint-colored curtain"
+                ],
+                [
+                    "floor",
+                    "maroon-colored savanna"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "flowerpot",
+                    "blue-colored bucket"
+                ],
+                [
+                    "floor",
+                    "cream-colored carpet"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "wall",
+                    "cyan-colored fence"
+                ],
+                [
+                    "tree",
+                    "cream-colored cotton candy tree"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "tree",
+                    "orange-colored birch tree"
+                ],
+                [
+                    "wall",
+                    "rust-colored partition"
+                ]
+            ]
+        }
+    ]
+}

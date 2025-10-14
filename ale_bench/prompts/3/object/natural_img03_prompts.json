@@ -1,0 +1,205 @@
+{
+    "image": "natural_img03",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "boy",
+                    "girl"
+                ],
+                [
+                    "shirt",
+                    "polo shirt"
+                ],
+                [
+                    "girl",
+                    "alien"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "girl",
+                    "female student"
+                ],
+                [
+                    "boy",
+                    "girl"
+                ],
+                [
+                    "shirt",
+                    "sweatshirt"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "shirt",
+                    "soccer uniform"
+                ],
+                [
+                    "girl",
+                    "boy"
+                ],
+                [
+                    "boy",
+                    "girl"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "girl",
+                    "female athlete"
+                ],
+                [
+                    "shirt",
+                    "cardigan"
+                ],
+                [
+                    "boy",
+                    "schoolboy"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "girl",
+                    "alien"
+                ],
+                [
+                    "shirt",
+                    "tank top"
+                ],
+                [
+                    "boy",
+                    "girl"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "boy",
+                    "soccer player boy"
+                ],
+                [
+                    "girl",
+                    "female student"
+                ],
+                [
+                    "shirt",
+                    "hoodie"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "girl",
+                    "alien"
+                ],
+                [
+                    "boy",
+                    "soccer player boy"
+                ],
+                [
+                    "shirt",
+                    "t-shirt"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "girl",
+                    "female athlete"
+                ],
+                [
+                    "shirt",
+                    "running shirt"
+                ],
+                [
+                    "boy",
+                    "schoolboy"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "boy",
+                    "girl"
+                ],
+                [
+                    "shirt",
+                    "soccer uniform"
+                ],
+                [
+                    "girl",
+                    "female athlete"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "girl",
+                    "female student"
+                ],
+                [
+                    "boy",
+                    "soccer player boy"
+                ],
+                [
+                    "shirt",
+                    "hoodie"
+                ]
+            ]
+        }
+    ]
+}

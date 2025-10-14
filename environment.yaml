@@ -1,0 +1,22 @@
+name: ale
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python==3.10.16
+  - pip==25.1
+  - pip:
+    - torch==2.7.0
+    - torchmetrics==1.7.1
+    - torchvision==0.22.0
+    - tqdm==4.67.1
+    - transformers==4.51.3
+    - accelerate==1.6.0
+    - diffusers==0.33.1
+    - gradio==5.29.0
+    - huggingface-hub==0.31.1
+    - numpy==2.2.5
+    - pandas==2.2.3
+    - pillow==11.2.1
+    - scipy==1.15.2
+    - opencv-python==4.11.0.86

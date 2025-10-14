@@ -1,0 +1,215 @@
+{
+    "image": "artificial_img06",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "teapot",
+                    "coffee pot made of resin"
+                ],
+                [
+                    "table",
+                    "bench made of latex"
+                ],
+                [
+                    "floor",
+                    "dirt made of copper"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "table",
+                    "bench made of rubber"
+                ],
+                [
+                    "teapot",
+                    "coffee pot made of ivory"
+                ],
+                [
+                    "chair",
+                    "recliner made of asphalt"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "table",
+                    "nightstand made of diamond"
+                ],
+                [
+                    "chair",
+                    "gaming chair made of amber"
+                ],
+                [
+                    "teapot",
+                    "teacup made of concrete"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "teapot",
+                    "coffee pot made of linen"
+                ],
+                [
+                    "chair",
+                    "recliner made of ivory"
+                ],
+                [
+                    "floor",
+                    "dirt made of linen"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "meadow made of ivory"
+                ],
+                [
+                    "table",
+                    "dining table made of ruby"
+                ],
+                [
+                    "chair",
+                    "throne made of linen"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "chair",
+                    "bench made of latex"
+                ],
+                [
+                    "teapot",
+                    "teacup made of bronze"
+                ],
+                [
+                    "floor",
+                    "meadow made of bamboo"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "teapot",
+                    "teacup made of ruby"
+                ],
+                [
+                    "chair",
+                    "office chair made of bronze"
+                ],
+                [
+                    "table",
+                    "nightstand made of turquoise"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "carpet made of latex"
+                ],
+                [
+                    "chair",
+                    "office chair made of acrylic"
+                ],
+                [
+                    "table",
+                    "nightstand made of ivory"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "teapot",
+                    "coffee pot made of leather"
+                ],
+                [
+                    "table",
+                    "nightstand made of ceramic"
+                ],
+                [
+                    "chair",
+                    "office chair made of chrome"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "mat made of silk"
+                ],
+                [
+                    "table",
+                    "dining table made of paper"
+                ],
+                [
+                    "chair",
+                    "stool made of copper"
+                ]
+            ]
+        }
+    ]
+}

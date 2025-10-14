@@ -1,0 +1,175 @@
+{
+    "image": "artificial_img07",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "hair",
+                    "green-colored short hair"
+                ],
+                [
+                    "pizza",
+                    "blue-colored steak"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "dress",
+                    "sepia-colored kimono"
+                ],
+                [
+                    "pizza",
+                    "green-colored pasta"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "dress",
+                    "blue-colored jumpsuit"
+                ],
+                [
+                    "boat",
+                    "maroon-colored kayak"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "dress",
+                    "beige-colored blouse"
+                ],
+                [
+                    "boat",
+                    "sepia-colored ferry"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "dress",
+                    "maroon-colored kimono"
+                ],
+                [
+                    "pizza",
+                    "beige-colored pasta"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "boat",
+                    "red-colored kayak"
+                ],
+                [
+                    "hair",
+                    "cream-colored braided hair"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "pizza",
+                    "yellow-colored pasta"
+                ],
+                [
+                    "dress",
+                    "sepia-colored gown"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "pizza",
+                    "orange-colored flatbread"
+                ],
+                [
+                    "boat",
+                    "navy-colored kayak"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "hair",
+                    "sepia-colored afro hair"
+                ],
+                [
+                    "boat",
+                    "purple-colored yacht"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "pizza",
+                    "blue-colored sandwich"
+                ],
+                [
+                    "dress",
+                    "gray-colored tunics"
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "image": "artificial_img07",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "pizza",
+                    "pizza made of crystal"
+                ],
+                [
+                    "hair",
+                    "hair made of chrome"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "dress",
+                    "dress made of jade"
+                ],
+                [
+                    "boat",
+                    "boat made of gold"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "dress",
+                    "dress made of ivory"
+                ],
+                [
+                    "hair",
+                    "hair made of emerald"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "boat",
+                    "boat made of glass"
+                ],
+                [
+                    "pizza",
+                    "pizza made of ruby"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "dress",
+                    "dress made of gold"
+                ],
+                [
+                    "pizza",
+                    "pizza made of rubber"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "boat",
+                    "boat made of ceramic"
+                ],
+                [
+                    "pizza",
+                    "pizza made of ruby"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "hair",
+                    "hair made of aluminum"
+                ],
+                [
+                    "dress",
+                    "dress made of plastic"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "boat",
+                    "boat made of ceramic"
+                ],
+                [
+                    "hair",
+                    "hair made of glass"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "hair",
+                    "hair made of silver"
+                ],
+                [
+                    "dress",
+                    "dress made of ivory"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "dress",
+                    "dress made of plastic"
+                ],
+                [
+                    "hair",
+                    "hair made of wood"
+                ]
+            ]
+        }
+    ]
+}

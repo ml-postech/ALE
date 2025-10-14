@@ -1,0 +1,205 @@
+{
+    "image": "artificial_img09",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "lighthouse",
+                    "lighthouse made of emerald"
+                ],
+                [
+                    "wave",
+                    "wave made of silk"
+                ],
+                [
+                    "house",
+                    "house made of marble"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "wave",
+                    "wave made of resin"
+                ],
+                [
+                    "lighthouse",
+                    "lighthouse made of diamond"
+                ],
+                [
+                    "house",
+                    "house made of amethyst"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "house",
+                    "house made of aluminum"
+                ],
+                [
+                    "wave",
+                    "wave made of jade"
+                ],
+                [
+                    "lighthouse",
+                    "lighthouse made of chrome"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "house",
+                    "house made of marble"
+                ],
+                [
+                    "lighthouse",
+                    "lighthouse made of marble"
+                ],
+                [
+                    "wave",
+                    "wave made of foam"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "wave",
+                    "wave made of concrete"
+                ],
+                [
+                    "lighthouse",
+                    "lighthouse made of diamond"
+                ],
+                [
+                    "house",
+                    "house made of wool"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "lighthouse",
+                    "lighthouse made of aluminum"
+                ],
+                [
+                    "house",
+                    "house made of ivory"
+                ],
+                [
+                    "wave",
+                    "wave made of ivory"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "house",
+                    "house made of amethyst"
+                ],
+                [
+                    "lighthouse",
+                    "lighthouse made of silk"
+                ],
+                [
+                    "wave",
+                    "wave made of marble"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "house",
+                    "house made of plastic"
+                ],
+                [
+                    "lighthouse",
+                    "lighthouse made of ivory"
+                ],
+                [
+                    "wave",
+                    "wave made of latex"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "lighthouse",
+                    "lighthouse made of silk"
+                ],
+                [
+                    "wave",
+                    "wave made of bronze"
+                ],
+                [
+                    "house",
+                    "house made of amethyst"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "house",
+                    "house made of granite"
+                ],
+                [
+                    "lighthouse",
+                    "lighthouse made of steel"
+                ],
+                [
+                    "wave",
+                    "wave made of latex"
+                ]
+            ]
+        }
+    ]
+}

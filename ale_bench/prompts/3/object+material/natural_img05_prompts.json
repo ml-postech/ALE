@@ -1,0 +1,215 @@
+{
+    "image": "natural_img05",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "plant",
+                    "bush made of aluminum"
+                ],
+                [
+                    "sketchbook",
+                    "diary made of silver"
+                ],
+                [
+                    "white pot",
+                    "basket made of leather"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "sketchbook",
+                    "scrapbook made of aluminum"
+                ],
+                [
+                    "plant",
+                    "bush made of diamond"
+                ],
+                [
+                    "white pot",
+                    "urn made of granite"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "white pot",
+                    "lantern made of resin"
+                ],
+                [
+                    "sketchbook",
+                    "scrapbook made of clay"
+                ],
+                [
+                    "plant",
+                    "bush made of diamond"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "plant",
+                    "tree made of clay"
+                ],
+                [
+                    "sketchbook",
+                    "drawing pad made of resin"
+                ],
+                [
+                    "white pot",
+                    "mug made of chrome"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "sketchbook",
+                    "drawing pad made of marble"
+                ],
+                [
+                    "white pot",
+                    "mug made of copper"
+                ],
+                [
+                    "plant",
+                    "cactus made of amethyst"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "white pot",
+                    "urn made of silver"
+                ],
+                [
+                    "sketchbook",
+                    "notebook made of glass"
+                ],
+                [
+                    "plant",
+                    "fern made of silk"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "plant",
+                    "broccoli made of velvet"
+                ],
+                [
+                    "sketchbook",
+                    "portfolio made of asphalt"
+                ],
+                [
+                    "white pot",
+                    "vase made of gold"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "sketchbook",
+                    "diary made of marble"
+                ],
+                [
+                    "plant",
+                    "bush made of foam"
+                ],
+                [
+                    "white pot",
+                    "basket made of plastic"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "plant",
+                    "herb made of emerald"
+                ],
+                [
+                    "sketchbook",
+                    "notebook made of paper"
+                ],
+                [
+                    "white pot",
+                    "jar made of ceramic"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "white pot",
+                    "basket made of jade"
+                ],
+                [
+                    "sketchbook",
+                    "drawing pad made of marble"
+                ],
+                [
+                    "plant",
+                    "bonsai made of ceramic"
+                ]
+            ]
+        }
+    ]
+}

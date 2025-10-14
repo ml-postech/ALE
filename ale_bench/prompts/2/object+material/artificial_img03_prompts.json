@@ -1,0 +1,175 @@
+{
+    "image": "artificial_img03",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "wolf",
+                    "cat made of rubber"
+                ],
+                [
+                    "mountain",
+                    "wave made of ivory"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "wolf",
+                    "tiger made of turquoise"
+                ],
+                [
+                    "mountain",
+                    "wave made of ceramic"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "moon",
+                    "balloon made of linen"
+                ],
+                [
+                    "wolf",
+                    "tiger made of turquoise"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "moon",
+                    "balloon made of diamond"
+                ],
+                [
+                    "mountain",
+                    "volcano made of turquoise"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "mountain",
+                    "forest made of resin"
+                ],
+                [
+                    "moon",
+                    "balloon made of silver"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "mountain",
+                    "volcano made of wool"
+                ],
+                [
+                    "wolf",
+                    "lion made of plastic"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "moon",
+                    "balloon made of gold"
+                ],
+                [
+                    "wolf",
+                    "lion made of paper"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "mountain",
+                    "hill made of paper"
+                ],
+                [
+                    "moon",
+                    "soccer ball made of paper"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "mountain",
+                    "volcano made of plastic"
+                ],
+                [
+                    "moon",
+                    "UFO made of rubber"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "moon",
+                    "UFO made of glass"
+                ],
+                [
+                    "mountain",
+                    "glacier made of clay"
+                ]
+            ]
+        }
+    ]
+}

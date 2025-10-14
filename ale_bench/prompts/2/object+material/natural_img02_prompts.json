@@ -1,0 +1,175 @@
+{
+    "image": "natural_img02",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "yellow bell pepper",
+                    "dragon head made of aluminum"
+                ],
+                [
+                    "red bell pepper",
+                    "rock made of wood"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "green bell pepper",
+                    "rock made of acrylic"
+                ],
+                [
+                    "red bell pepper",
+                    "ice made of sapphire"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "yellow bell pepper",
+                    "ice made of wood"
+                ],
+                [
+                    "red bell pepper",
+                    "cheese made of ivory"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "yellow bell pepper",
+                    "apple made of silk"
+                ],
+                [
+                    "red bell pepper",
+                    "cheese made of bamboo"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "green bell pepper",
+                    "cheese made of wood"
+                ],
+                [
+                    "red bell pepper",
+                    "rock made of wool"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "green bell pepper",
+                    "cheese made of leather"
+                ],
+                [
+                    "yellow bell pepper",
+                    "apple made of bronze"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "green bell pepper",
+                    "ice made of marble"
+                ],
+                [
+                    "red bell pepper",
+                    "cheese made of sapphire"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "green bell pepper",
+                    "cheese made of velvet"
+                ],
+                [
+                    "red bell pepper",
+                    "cheese made of crystal"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "red bell pepper",
+                    "apple made of gold"
+                ],
+                [
+                    "green bell pepper",
+                    "dragon head made of sapphire"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "red bell pepper",
+                    "cheese made of ruby"
+                ],
+                [
+                    "green bell pepper",
+                    "apple made of silk"
+                ]
+            ]
+        }
+    ]
+}

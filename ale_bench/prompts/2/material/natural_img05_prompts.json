@@ -1,0 +1,165 @@
+{
+    "image": "natural_img05",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "plant",
+                    "plant made of amber"
+                ],
+                [
+                    "sketchbook",
+                    "sketchbook made of ivory"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "plant",
+                    "plant made of gold"
+                ],
+                [
+                    "sketchbook",
+                    "sketchbook made of crystal"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "sketchbook",
+                    "sketchbook made of ivory"
+                ],
+                [
+                    "white pot",
+                    "pot made of turquoise"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "sketchbook",
+                    "sketchbook made of silk"
+                ],
+                [
+                    "white pot",
+                    "pot made of glass"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "plant",
+                    "plant made of foam"
+                ],
+                [
+                    "white pot",
+                    "pot made of granite"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "sketchbook",
+                    "sketchbook made of leather"
+                ],
+                [
+                    "white pot",
+                    "pot made of velvet"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "white pot",
+                    "pot made of asphalt"
+                ],
+                [
+                    "plant",
+                    "plant made of ivory"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "sketchbook",
+                    "sketchbook made of diamond"
+                ],
+                [
+                    "white pot",
+                    "pot made of clay"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "plant",
+                    "plant made of chrome"
+                ],
+                [
+                    "sketchbook",
+                    "sketchbook made of ivory"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "sketchbook",
+                    "sketchbook made of ruby"
+                ],
+                [
+                    "plant",
+                    "plant made of chrome"
+                ]
+            ]
+        }
+    ]
+}

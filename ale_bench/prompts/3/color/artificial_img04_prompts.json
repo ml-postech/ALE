@@ -1,0 +1,205 @@
+{
+    "image": "artificial_img04",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "parasol",
+                    "mint-colored parasol"
+                ],
+                [
+                    "sun",
+                    "beige-colored sun"
+                ],
+                [
+                    "cloud",
+                    "orange-colored cloud"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "sun",
+                    "yellow-colored sun"
+                ],
+                [
+                    "cloud",
+                    "crimson-colored cloud"
+                ],
+                [
+                    "parasol",
+                    "mint-colored parasol"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "cloud",
+                    "khaki-colored cloud"
+                ],
+                [
+                    "sun",
+                    "purple-colored sun"
+                ],
+                [
+                    "parasol",
+                    "cream-colored parasol"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "parasol",
+                    "mint-colored parasol"
+                ],
+                [
+                    "sun",
+                    "crimson-colored sun"
+                ],
+                [
+                    "cloud",
+                    "maroon-colored cloud"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "cloud",
+                    "brown-colored cloud"
+                ],
+                [
+                    "sun",
+                    "blue-colored sun"
+                ],
+                [
+                    "parasol",
+                    "red-colored parasol"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "cloud",
+                    "navy-colored cloud"
+                ],
+                [
+                    "parasol",
+                    "navy-colored parasol"
+                ],
+                [
+                    "sun",
+                    "crimson-colored sun"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "parasol",
+                    "yellow-colored parasol"
+                ],
+                [
+                    "sun",
+                    "beige-colored sun"
+                ],
+                [
+                    "cloud",
+                    "navy-colored cloud"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "sun",
+                    "blue-colored sun"
+                ],
+                [
+                    "cloud",
+                    "black-colored cloud"
+                ],
+                [
+                    "parasol",
+                    "black-colored parasol"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "parasol",
+                    "green-colored parasol"
+                ],
+                [
+                    "sun",
+                    "gray-colored sun"
+                ],
+                [
+                    "cloud",
+                    "yellow-colored cloud"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "sun",
+                    "khaki-colored sun"
+                ],
+                [
+                    "parasol",
+                    "brown-colored parasol"
+                ],
+                [
+                    "cloud",
+                    "blue-colored cloud"
+                ]
+            ]
+        }
+    ]
+}

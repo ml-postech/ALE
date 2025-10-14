@@ -1,0 +1,205 @@
+{
+    "image": "natural_img03",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "boy",
+                    "maroon-colored boy"
+                ],
+                [
+                    "shirt",
+                    "green-colored shirt"
+                ],
+                [
+                    "girl",
+                    "rust-colored girl"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "shirt",
+                    "green-colored shirt"
+                ],
+                [
+                    "girl",
+                    "gray-colored girl"
+                ],
+                [
+                    "boy",
+                    "green-colored boy"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "shirt",
+                    "khaki-colored shirt"
+                ],
+                [
+                    "girl",
+                    "brown-colored girl"
+                ],
+                [
+                    "boy",
+                    "maroon-colored boy"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "shirt",
+                    "beige-colored shirt"
+                ],
+                [
+                    "girl",
+                    "black-colored girl"
+                ],
+                [
+                    "boy",
+                    "blue-colored boy"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "girl",
+                    "yellow-colored girl"
+                ],
+                [
+                    "shirt",
+                    "cyan-colored shirt"
+                ],
+                [
+                    "boy",
+                    "sepia-colored boy"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "shirt",
+                    "purple-colored shirt"
+                ],
+                [
+                    "girl",
+                    "yellow-colored girl"
+                ],
+                [
+                    "boy",
+                    "red-colored boy"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "shirt",
+                    "purple-colored shirt"
+                ],
+                [
+                    "girl",
+                    "mint-colored girl"
+                ],
+                [
+                    "boy",
+                    "navy-colored boy"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "shirt",
+                    "navy-colored shirt"
+                ],
+                [
+                    "boy",
+                    "orange-colored boy"
+                ],
+                [
+                    "girl",
+                    "white-colored girl"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "shirt",
+                    "brown-colored shirt"
+                ],
+                [
+                    "girl",
+                    "beige-colored girl"
+                ],
+                [
+                    "boy",
+                    "white-colored boy"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "shirt",
+                    "crimson-colored shirt"
+                ],
+                [
+                    "girl",
+                    "rust-colored girl"
+                ],
+                [
+                    "boy",
+                    "green-colored boy"
+                ]
+            ]
+        }
+    ]
+}

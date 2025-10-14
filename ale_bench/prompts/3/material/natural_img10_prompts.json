@@ -1,0 +1,205 @@
+{
+    "image": "natural_img10",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "pink macaron",
+                    "macaron made of amethyst"
+                ],
+                [
+                    "plate",
+                    "plate made of resin"
+                ],
+                [
+                    "yellow macaron",
+                    "macaron made of paper"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "plate",
+                    "plate made of rubber"
+                ],
+                [
+                    "pink macaron",
+                    "macaron made of wool"
+                ],
+                [
+                    "green macaron",
+                    "macaron made of leather"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "yellow macaron",
+                    "macaron made of foam"
+                ],
+                [
+                    "plate",
+                    "plate made of silk"
+                ],
+                [
+                    "green macaron",
+                    "macaron made of concrete"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "pink macaron",
+                    "macaron made of silver"
+                ],
+                [
+                    "yellow macaron",
+                    "macaron made of gold"
+                ],
+                [
+                    "plate",
+                    "plate made of granite"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "pink macaron",
+                    "macaron made of paper"
+                ],
+                [
+                    "green macaron",
+                    "macaron made of jade"
+                ],
+                [
+                    "yellow macaron",
+                    "macaron made of aluminum"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "green macaron",
+                    "macaron made of clay"
+                ],
+                [
+                    "yellow macaron",
+                    "macaron made of jade"
+                ],
+                [
+                    "pink macaron",
+                    "macaron made of chrome"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "yellow macaron",
+                    "macaron made of diamond"
+                ],
+                [
+                    "pink macaron",
+                    "macaron made of asphalt"
+                ],
+                [
+                    "green macaron",
+                    "macaron made of asphalt"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "pink macaron",
+                    "macaron made of rubber"
+                ],
+                [
+                    "green macaron",
+                    "macaron made of marble"
+                ],
+                [
+                    "plate",
+                    "plate made of crystal"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "pink macaron",
+                    "macaron made of plastic"
+                ],
+                [
+                    "yellow macaron",
+                    "macaron made of velvet"
+                ],
+                [
+                    "green macaron",
+                    "macaron made of amber"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "pink macaron",
+                    "macaron made of emerald"
+                ],
+                [
+                    "plate",
+                    "plate made of latex"
+                ],
+                [
+                    "green macaron",
+                    "macaron made of granite"
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,215 @@
+{
+    "image": "natural_img01",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "cone",
+                    "red-colored Christmas tree"
+                ],
+                [
+                    "orange globe",
+                    "yellow-colored soccer ball"
+                ],
+                [
+                    "blue globe",
+                    "yellow-colored tree"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "box",
+                    "red-colored cheese"
+                ],
+                [
+                    "blue globe",
+                    "beige-colored tree"
+                ],
+                [
+                    "cone",
+                    "orange-colored ice cream"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "cone",
+                    "yellow-colored waffle cone"
+                ],
+                [
+                    "blue globe",
+                    "purple-colored balloon"
+                ],
+                [
+                    "box",
+                    "black-colored sponge"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "cone",
+                    "sepia-colored ice cream"
+                ],
+                [
+                    "box",
+                    "yellow-colored meal box"
+                ],
+                [
+                    "blue globe",
+                    "green-colored balloon"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "box",
+                    "cream-colored meal box"
+                ],
+                [
+                    "blue globe",
+                    "sepia-colored ice"
+                ],
+                [
+                    "orange globe",
+                    "beige-colored fire"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "cone",
+                    "navy-colored Christmas tree"
+                ],
+                [
+                    "orange globe",
+                    "white-colored moon"
+                ],
+                [
+                    "box",
+                    "navy-colored meal box"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "blue globe",
+                    "rust-colored ice"
+                ],
+                [
+                    "orange globe",
+                    "brown-colored fire"
+                ],
+                [
+                    "cone",
+                    "maroon-colored waffle cone"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "orange globe",
+                    "crimson-colored moon"
+                ],
+                [
+                    "blue globe",
+                    "white-colored ice"
+                ],
+                [
+                    "cone",
+                    "green-colored ice cream"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "box",
+                    "navy-colored meal box"
+                ],
+                [
+                    "blue globe",
+                    "mint-colored tree"
+                ],
+                [
+                    "orange globe",
+                    "mint-colored moon"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "cone",
+                    "maroon-colored waffle cone"
+                ],
+                [
+                    "blue globe",
+                    "khaki-colored tree"
+                ],
+                [
+                    "orange globe",
+                    "khaki-colored moon"
+                ]
+            ]
+        }
+    ]
+}

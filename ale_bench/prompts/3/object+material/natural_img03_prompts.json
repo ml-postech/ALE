@@ -1,0 +1,215 @@
+{
+    "image": "natural_img03",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "boy",
+                    "girl made of crystal"
+                ],
+                [
+                    "shirt",
+                    "hoodie made of marble"
+                ],
+                [
+                    "girl",
+                    "woman made of clay"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "girl",
+                    "female athlete made of copper"
+                ],
+                [
+                    "shirt",
+                    "polo shirt made of latex"
+                ],
+                [
+                    "boy",
+                    "schoolboy made of copper"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "shirt",
+                    "hoodie made of sapphire"
+                ],
+                [
+                    "boy",
+                    "girl made of silk"
+                ],
+                [
+                    "girl",
+                    "alien made of jade"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "girl",
+                    "female athlete made of velvet"
+                ],
+                [
+                    "boy",
+                    "schoolboy made of ivory"
+                ],
+                [
+                    "shirt",
+                    "jacket made of emerald"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "girl",
+                    "female student made of latex"
+                ],
+                [
+                    "shirt",
+                    "t-shirt made of jade"
+                ],
+                [
+                    "boy",
+                    "soccer player boy made of marble"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "boy",
+                    "girl made of ivory"
+                ],
+                [
+                    "girl",
+                    "female student made of copper"
+                ],
+                [
+                    "shirt",
+                    "sweatshirt made of rubber"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "shirt",
+                    "sweatshirt made of ivory"
+                ],
+                [
+                    "boy",
+                    "schoolboy made of latex"
+                ],
+                [
+                    "girl",
+                    "female student made of sapphire"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "boy",
+                    "girl made of jade"
+                ],
+                [
+                    "girl",
+                    "alien made of jade"
+                ],
+                [
+                    "shirt",
+                    "t-shirt made of velvet"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "boy",
+                    "soccer player boy made of ivory"
+                ],
+                [
+                    "girl",
+                    "woman made of aluminum"
+                ],
+                [
+                    "shirt",
+                    "sweater made of silk"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "girl",
+                    "alien made of turquoise"
+                ],
+                [
+                    "shirt",
+                    "running shirt made of velvet"
+                ],
+                [
+                    "boy",
+                    "schoolboy made of glass"
+                ]
+            ]
+        }
+    ]
+}

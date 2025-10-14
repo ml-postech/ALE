@@ -1,0 +1,215 @@
+{
+    "image": "artificial_img06",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "teapot",
+                    "khaki-colored teacup"
+                ],
+                [
+                    "table",
+                    "purple-colored nightstand"
+                ],
+                [
+                    "floor",
+                    "cyan-colored lake"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "table",
+                    "cream-colored nightstand"
+                ],
+                [
+                    "teapot",
+                    "rust-colored coffee pot"
+                ],
+                [
+                    "floor",
+                    "white-colored mat"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "chair",
+                    "black-colored bench"
+                ],
+                [
+                    "teapot",
+                    "brown-colored teacup"
+                ],
+                [
+                    "table",
+                    "khaki-colored bench"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "table",
+                    "maroon-colored dining table"
+                ],
+                [
+                    "chair",
+                    "pink-colored recliner"
+                ],
+                [
+                    "teapot",
+                    "beige-colored teacup"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "teapot",
+                    "beige-colored coffee pot"
+                ],
+                [
+                    "floor",
+                    "pink-colored swamp"
+                ],
+                [
+                    "table",
+                    "beige-colored nightstand"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "chair",
+                    "mint-colored recliner"
+                ],
+                [
+                    "teapot",
+                    "navy-colored teacup"
+                ],
+                [
+                    "table",
+                    "maroon-colored nightstand"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "table",
+                    "white-colored nightstand"
+                ],
+                [
+                    "floor",
+                    "mint-colored dirt"
+                ],
+                [
+                    "chair",
+                    "maroon-colored bench"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "cyan-colored active fire area"
+                ],
+                [
+                    "teapot",
+                    "orange-colored stewpot"
+                ],
+                [
+                    "chair",
+                    "khaki-colored recliner"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "green-colored savanna"
+                ],
+                [
+                    "teapot",
+                    "beige-colored coffee pot"
+                ],
+                [
+                    "chair",
+                    "cyan-colored stool"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "chair",
+                    "brown-colored stool"
+                ],
+                [
+                    "table",
+                    "cyan-colored coffee table"
+                ],
+                [
+                    "teapot",
+                    "brown-colored teacup"
+                ]
+            ]
+        }
+    ]
+}

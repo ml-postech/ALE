@@ -1,0 +1,165 @@
+{
+    "image": "natural_img07",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "computer mouse",
+                    "computer mouse made of crystal"
+                ],
+                [
+                    "pen",
+                    "pen made of velvet"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "computer mouse",
+                    "computer mouse made of bamboo"
+                ],
+                [
+                    "pen",
+                    "pen made of asphalt"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "keyboard",
+                    "keyboard made of foam"
+                ],
+                [
+                    "pen",
+                    "pen made of marble"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "keyboard",
+                    "keyboard made of aluminum"
+                ],
+                [
+                    "computer mouse",
+                    "computer mouse made of chrome"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "computer mouse",
+                    "computer mouse made of emerald"
+                ],
+                [
+                    "keyboard",
+                    "keyboard made of turquoise"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "keyboard",
+                    "keyboard made of clay"
+                ],
+                [
+                    "computer mouse",
+                    "computer mouse made of linen"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "pen",
+                    "pen made of wool"
+                ],
+                [
+                    "computer mouse",
+                    "computer mouse made of sapphire"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "keyboard",
+                    "keyboard made of ivory"
+                ],
+                [
+                    "computer mouse",
+                    "computer mouse made of steel"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "computer mouse",
+                    "computer mouse made of steel"
+                ],
+                [
+                    "pen",
+                    "pen made of acrylic"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "pen",
+                    "pen made of latex"
+                ],
+                [
+                    "computer mouse",
+                    "computer mouse made of steel"
+                ]
+            ]
+        }
+    ]
+}

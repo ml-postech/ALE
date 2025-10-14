@@ -1,0 +1,165 @@
+{
+    "image": "natural_img02",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "red bell pepper",
+                    "bell pepper made of concrete"
+                ],
+                [
+                    "yellow bell pepper",
+                    "bell pepper made of plastic"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "red bell pepper",
+                    "bell pepper made of bronze"
+                ],
+                [
+                    "green bell pepper",
+                    "bell pepper made of foam"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "yellow bell pepper",
+                    "bell pepper made of wool"
+                ],
+                [
+                    "red bell pepper",
+                    "bell pepper made of crystal"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "yellow bell pepper",
+                    "bell pepper made of silver"
+                ],
+                [
+                    "green bell pepper",
+                    "bell pepper made of bamboo"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "yellow bell pepper",
+                    "bell pepper made of crystal"
+                ],
+                [
+                    "green bell pepper",
+                    "bell pepper made of jade"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "green bell pepper",
+                    "bell pepper made of rubber"
+                ],
+                [
+                    "red bell pepper",
+                    "bell pepper made of clay"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "yellow bell pepper",
+                    "bell pepper made of bamboo"
+                ],
+                [
+                    "green bell pepper",
+                    "bell pepper made of bronze"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "yellow bell pepper",
+                    "bell pepper made of crystal"
+                ],
+                [
+                    "green bell pepper",
+                    "bell pepper made of bronze"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "yellow bell pepper",
+                    "bell pepper made of silk"
+                ],
+                [
+                    "red bell pepper",
+                    "bell pepper made of ruby"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "red bell pepper",
+                    "bell pepper made of turquoise"
+                ],
+                [
+                    "green bell pepper",
+                    "bell pepper made of amethyst"
+                ]
+            ]
+        }
+    ]
+}

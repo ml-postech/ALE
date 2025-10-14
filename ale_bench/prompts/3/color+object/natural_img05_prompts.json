@@ -1,0 +1,215 @@
+{
+    "image": "natural_img05",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "sketchbook",
+                    "sepia-colored notebook"
+                ],
+                [
+                    "white pot",
+                    "yellow-colored lantern"
+                ],
+                [
+                    "plant",
+                    "red-colored cactus"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "sketchbook",
+                    "cyan-colored planner"
+                ],
+                [
+                    "plant",
+                    "yellow-colored broccoli"
+                ],
+                [
+                    "white pot",
+                    "white-colored urn"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "sketchbook",
+                    "rust-colored notebook"
+                ],
+                [
+                    "plant",
+                    "gray-colored bonsai"
+                ],
+                [
+                    "white pot",
+                    "yellow-colored lantern"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "sketchbook",
+                    "beige-colored scrapbook"
+                ],
+                [
+                    "white pot",
+                    "yellow-colored basket"
+                ],
+                [
+                    "plant",
+                    "sepia-colored tree"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "white pot",
+                    "mint-colored bucket"
+                ],
+                [
+                    "plant",
+                    "sepia-colored palm tree"
+                ],
+                [
+                    "sketchbook",
+                    "white-colored scrapbook"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "sketchbook",
+                    "beige-colored diary"
+                ],
+                [
+                    "plant",
+                    "purple-colored cactus"
+                ],
+                [
+                    "white pot",
+                    "khaki-colored urn"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "plant",
+                    "black-colored cactus"
+                ],
+                [
+                    "white pot",
+                    "red-colored lantern"
+                ],
+                [
+                    "sketchbook",
+                    "green-colored notebook"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "sketchbook",
+                    "green-colored scrapbook"
+                ],
+                [
+                    "white pot",
+                    "cream-colored vase"
+                ],
+                [
+                    "plant",
+                    "yellow-colored fern"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "sketchbook",
+                    "gray-colored diary"
+                ],
+                [
+                    "plant",
+                    "cyan-colored cactus"
+                ],
+                [
+                    "white pot",
+                    "yellow-colored mug"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "plant",
+                    "navy-colored succulent"
+                ],
+                [
+                    "sketchbook",
+                    "beige-colored portfolio"
+                ],
+                [
+                    "white pot",
+                    "yellow-colored vase"
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "image": "artificial_img02",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "houseplant",
+                    "houseplant made of velvet"
+                ],
+                [
+                    "table",
+                    "table made of emerald"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "houseplant",
+                    "houseplant made of copper"
+                ],
+                [
+                    "table",
+                    "table made of silk"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "flowerpot",
+                    "flowerpot made of latex"
+                ],
+                [
+                    "table",
+                    "table made of leather"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "table",
+                    "table made of amethyst"
+                ],
+                [
+                    "flowerpot",
+                    "flowerpot made of latex"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "houseplant",
+                    "houseplant made of chrome"
+                ],
+                [
+                    "flowerpot",
+                    "flowerpot made of gold"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "table",
+                    "table made of copper"
+                ],
+                [
+                    "flowerpot",
+                    "flowerpot made of resin"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "table",
+                    "table made of crystal"
+                ],
+                [
+                    "houseplant",
+                    "houseplant made of silver"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "flowerpot",
+                    "flowerpot made of clay"
+                ],
+                [
+                    "table",
+                    "table made of concrete"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "houseplant",
+                    "houseplant made of steel"
+                ],
+                [
+                    "flowerpot",
+                    "flowerpot made of steel"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "table",
+                    "table made of copper"
+                ],
+                [
+                    "houseplant",
+                    "houseplant made of wool"
+                ]
+            ]
+        }
+    ]
+}

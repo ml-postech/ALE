@@ -1,0 +1,205 @@
+{
+    "image": "artificial_img06",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "chair",
+                    "white-colored chair"
+                ],
+                [
+                    "floor",
+                    "blue-colored floor"
+                ],
+                [
+                    "table",
+                    "red-colored table"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "teapot",
+                    "purple-colored teapot"
+                ],
+                [
+                    "chair",
+                    "cyan-colored chair"
+                ],
+                [
+                    "table",
+                    "khaki-colored table"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "yellow-colored floor"
+                ],
+                [
+                    "teapot",
+                    "green-colored teapot"
+                ],
+                [
+                    "chair",
+                    "orange-colored chair"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "chair",
+                    "beige-colored chair"
+                ],
+                [
+                    "table",
+                    "orange-colored table"
+                ],
+                [
+                    "floor",
+                    "blue-colored floor"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "teapot",
+                    "navy-colored teapot"
+                ],
+                [
+                    "table",
+                    "pink-colored table"
+                ],
+                [
+                    "chair",
+                    "black-colored chair"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "chair",
+                    "sepia-colored chair"
+                ],
+                [
+                    "table",
+                    "orange-colored table"
+                ],
+                [
+                    "teapot",
+                    "black-colored teapot"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "table",
+                    "red-colored table"
+                ],
+                [
+                    "chair",
+                    "purple-colored chair"
+                ],
+                [
+                    "floor",
+                    "brown-colored floor"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "white-colored floor"
+                ],
+                [
+                    "teapot",
+                    "purple-colored teapot"
+                ],
+                [
+                    "chair",
+                    "yellow-colored chair"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "black-colored floor"
+                ],
+                [
+                    "chair",
+                    "pink-colored chair"
+                ],
+                [
+                    "table",
+                    "cyan-colored table"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "teapot",
+                    "black-colored teapot"
+                ],
+                [
+                    "table",
+                    "red-colored table"
+                ],
+                [
+                    "chair",
+                    "pink-colored chair"
+                ]
+            ]
+        }
+    ]
+}

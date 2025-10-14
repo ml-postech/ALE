@@ -1,0 +1,205 @@
+{
+    "image": "natural_img01",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "box",
+                    "box made of sapphire"
+                ],
+                [
+                    "orange globe",
+                    "globe made of ivory"
+                ],
+                [
+                    "blue globe",
+                    "globe made of chrome"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "orange globe",
+                    "globe made of wool"
+                ],
+                [
+                    "cone",
+                    "cone made of rubber"
+                ],
+                [
+                    "blue globe",
+                    "globe made of linen"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "box",
+                    "box made of graphite"
+                ],
+                [
+                    "blue globe",
+                    "globe made of ivory"
+                ],
+                [
+                    "orange globe",
+                    "globe made of glass"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "box",
+                    "box made of ceramic"
+                ],
+                [
+                    "blue globe",
+                    "globe made of acrylic"
+                ],
+                [
+                    "orange globe",
+                    "globe made of granite"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "blue globe",
+                    "globe made of steel"
+                ],
+                [
+                    "cone",
+                    "cone made of graphite"
+                ],
+                [
+                    "orange globe",
+                    "globe made of ruby"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "orange globe",
+                    "globe made of diamond"
+                ],
+                [
+                    "box",
+                    "box made of steel"
+                ],
+                [
+                    "blue globe",
+                    "globe made of wood"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "box",
+                    "box made of leather"
+                ],
+                [
+                    "blue globe",
+                    "globe made of turquoise"
+                ],
+                [
+                    "cone",
+                    "cone made of graphite"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "blue globe",
+                    "globe made of latex"
+                ],
+                [
+                    "orange globe",
+                    "globe made of aluminum"
+                ],
+                [
+                    "cone",
+                    "cone made of crystal"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "box",
+                    "box made of chrome"
+                ],
+                [
+                    "blue globe",
+                    "globe made of silver"
+                ],
+                [
+                    "orange globe",
+                    "globe made of emerald"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "cone",
+                    "cone made of turquoise"
+                ],
+                [
+                    "box",
+                    "box made of ceramic"
+                ],
+                [
+                    "orange globe",
+                    "globe made of plastic"
+                ]
+            ]
+        }
+    ]
+}

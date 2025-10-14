@@ -1,0 +1,205 @@
+{
+    "image": "natural_img04",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "sea",
+                    "brown-colored sea"
+                ],
+                [
+                    "cocktail",
+                    "black-colored cocktail"
+                ],
+                [
+                    "sand",
+                    "black-colored sand"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "sand",
+                    "navy-colored sand"
+                ],
+                [
+                    "sea",
+                    "orange-colored sea"
+                ],
+                [
+                    "cocktail",
+                    "brown-colored cocktail"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "sea",
+                    "navy-colored sea"
+                ],
+                [
+                    "sand",
+                    "gray-colored sand"
+                ],
+                [
+                    "cocktail",
+                    "mint-colored cocktail"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "sand",
+                    "rust-colored sand"
+                ],
+                [
+                    "cocktail",
+                    "sepia-colored cocktail"
+                ],
+                [
+                    "sea",
+                    "green-colored sea"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "sea",
+                    "white-colored sea"
+                ],
+                [
+                    "cocktail",
+                    "rust-colored cocktail"
+                ],
+                [
+                    "sand",
+                    "green-colored sand"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "sand",
+                    "cream-colored sand"
+                ],
+                [
+                    "cocktail",
+                    "rust-colored cocktail"
+                ],
+                [
+                    "sea",
+                    "red-colored sea"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "sand",
+                    "blue-colored sand"
+                ],
+                [
+                    "sea",
+                    "khaki-colored sea"
+                ],
+                [
+                    "cocktail",
+                    "white-colored cocktail"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "sand",
+                    "navy-colored sand"
+                ],
+                [
+                    "sea",
+                    "maroon-colored sea"
+                ],
+                [
+                    "cocktail",
+                    "black-colored cocktail"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "sand",
+                    "cyan-colored sand"
+                ],
+                [
+                    "sea",
+                    "cream-colored sea"
+                ],
+                [
+                    "cocktail",
+                    "cream-colored cocktail"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "cocktail",
+                    "cream-colored cocktail"
+                ],
+                [
+                    "sea",
+                    "red-colored sea"
+                ],
+                [
+                    "sand",
+                    "black-colored sand"
+                ]
+            ]
+        }
+    ]
+}

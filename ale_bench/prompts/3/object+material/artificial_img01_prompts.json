@@ -1,0 +1,215 @@
+{
+    "image": "artificial_img01",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "couch",
+                    "boat made of acrylic"
+                ],
+                [
+                    "floor",
+                    "lake made of chrome"
+                ],
+                [
+                    "tree",
+                    "pine tree made of linen"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "tree",
+                    "cotton candy tree made of bronze"
+                ],
+                [
+                    "couch",
+                    "bed made of plastic"
+                ],
+                [
+                    "floor",
+                    "desert made of copper"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "couch",
+                    "desk made of latex"
+                ],
+                [
+                    "floor",
+                    "lake made of sapphire"
+                ],
+                [
+                    "tree",
+                    "pine tree made of turquoise"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "tree",
+                    "palm tree made of silk"
+                ],
+                [
+                    "floor",
+                    "carpet made of amethyst"
+                ],
+                [
+                    "couch",
+                    "boat made of concrete"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "couch",
+                    "bench made of silk"
+                ],
+                [
+                    "tree",
+                    "Christmas tree made of turquoise"
+                ],
+                [
+                    "floor",
+                    "deck made of silver"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "meadow made of rubber"
+                ],
+                [
+                    "tree",
+                    "birch tree made of paper"
+                ],
+                [
+                    "couch",
+                    "desk made of acrylic"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "couch",
+                    "bed made of wool"
+                ],
+                [
+                    "tree",
+                    "cotton candy tree made of wool"
+                ],
+                [
+                    "floor",
+                    "wheat field made of chrome"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "deck made of diamond"
+                ],
+                [
+                    "tree",
+                    "cotton candy tree made of wood"
+                ],
+                [
+                    "couch",
+                    "desk made of foam"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "tree",
+                    "birch tree made of asphalt"
+                ],
+                [
+                    "couch",
+                    "desk made of silver"
+                ],
+                [
+                    "floor",
+                    "deck made of crystal"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "couch",
+                    "desk made of leather"
+                ],
+                [
+                    "tree",
+                    "maple tree made of rubber"
+                ],
+                [
+                    "floor",
+                    "meadow made of latex"
+                ]
+            ]
+        }
+    ]
+}

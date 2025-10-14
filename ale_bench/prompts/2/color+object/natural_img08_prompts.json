@@ -1,0 +1,175 @@
+{
+    "image": "natural_img08",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "yellow car",
+                    "green-colored van"
+                ],
+                [
+                    "red car",
+                    "cream-colored tank"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "yellow car",
+                    "black-colored jeep"
+                ],
+                [
+                    "red car",
+                    "crimson-colored racing car"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "green car",
+                    "yellow-colored ambulance"
+                ],
+                [
+                    "red car",
+                    "blue-colored sedan"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "red car",
+                    "pink-colored police car"
+                ],
+                [
+                    "yellow car",
+                    "yellow-colored police car"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "yellow car",
+                    "pink-colored truck"
+                ],
+                [
+                    "green car",
+                    "khaki-colored racing car"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "yellow car",
+                    "gray-colored racing car"
+                ],
+                [
+                    "green car",
+                    "red-colored racing car"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "green car",
+                    "cyan-colored jeep"
+                ],
+                [
+                    "yellow car",
+                    "crimson-colored racing car"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "green car",
+                    "white-colored convertible"
+                ],
+                [
+                    "yellow car",
+                    "sepia-colored tank"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "green car",
+                    "brown-colored ambulance"
+                ],
+                [
+                    "yellow car",
+                    "mint-colored ambulance"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "green car",
+                    "white-colored ambulance"
+                ],
+                [
+                    "red car",
+                    "black-colored sedan"
+                ]
+            ]
+        }
+    ]
+}

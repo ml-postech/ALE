@@ -1,0 +1,215 @@
+{
+    "image": "artificial_img08",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "footwear",
+                    "sneakers made of jade"
+                ],
+                [
+                    "glasses",
+                    "sunglass made of steel"
+                ],
+                [
+                    "girl",
+                    "woman made of ruby"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "footwear",
+                    "slippers made of emerald"
+                ],
+                [
+                    "glasses",
+                    "sunglass made of ivory"
+                ],
+                [
+                    "laptop",
+                    "gaming laptop made of bronze"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "girl",
+                    "female student made of wood"
+                ],
+                [
+                    "footwear",
+                    "boots made of plastic"
+                ],
+                [
+                    "glasses",
+                    "goggles made of glass"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "footwear",
+                    "loafers made of emerald"
+                ],
+                [
+                    "laptop",
+                    "tablet made of ivory"
+                ],
+                [
+                    "glasses",
+                    "goggles made of diamond"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "laptop",
+                    "gaming laptop made of clay"
+                ],
+                [
+                    "glasses",
+                    "safety glasses made of silver"
+                ],
+                [
+                    "girl",
+                    "boy made of velvet"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "laptop",
+                    "gaming laptop made of paper"
+                ],
+                [
+                    "footwear",
+                    "loafers made of silk"
+                ],
+                [
+                    "glasses",
+                    "safety glasses made of resin"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "laptop",
+                    "macbook made of crystal"
+                ],
+                [
+                    "girl",
+                    "female student made of foam"
+                ],
+                [
+                    "glasses",
+                    "sunglass made of amber"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "girl",
+                    "boy made of amber"
+                ],
+                [
+                    "glasses",
+                    "sunglass made of amber"
+                ],
+                [
+                    "laptop",
+                    "macbook made of marble"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "laptop",
+                    "macbook made of amber"
+                ],
+                [
+                    "glasses",
+                    "safety glasses made of velvet"
+                ],
+                [
+                    "girl",
+                    "alien made of silk"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "footwear",
+                    "sandals made of bamboo"
+                ],
+                [
+                    "glasses",
+                    "sunglass made of amethyst"
+                ],
+                [
+                    "laptop",
+                    "tablet made of bronze"
+                ]
+            ]
+        }
+    ]
+}

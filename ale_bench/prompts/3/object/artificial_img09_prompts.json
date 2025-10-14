@@ -1,0 +1,205 @@
+{
+    "image": "artificial_img09",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "wave",
+                    "sandstorm"
+                ],
+                [
+                    "house",
+                    "treehouse"
+                ],
+                [
+                    "lighthouse",
+                    "bell tower"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "house",
+                    "villa"
+                ],
+                [
+                    "wave",
+                    "volcano"
+                ],
+                [
+                    "lighthouse",
+                    "clock tower"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "house",
+                    "bungalow"
+                ],
+                [
+                    "wave",
+                    "sandstorm"
+                ],
+                [
+                    "lighthouse",
+                    "radio tower"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "wave",
+                    "sandstorm"
+                ],
+                [
+                    "lighthouse",
+                    "skyscraper"
+                ],
+                [
+                    "house",
+                    "villa"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "house",
+                    "treehouse"
+                ],
+                [
+                    "wave",
+                    "volcano"
+                ],
+                [
+                    "lighthouse",
+                    "water tower"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "house",
+                    "apartment building"
+                ],
+                [
+                    "lighthouse",
+                    "water tower"
+                ],
+                [
+                    "wave",
+                    "sandstorm"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "house",
+                    "treehouse"
+                ],
+                [
+                    "wave",
+                    "wildfire"
+                ],
+                [
+                    "lighthouse",
+                    "radio tower"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "lighthouse",
+                    "water tower"
+                ],
+                [
+                    "house",
+                    "cabin"
+                ],
+                [
+                    "wave",
+                    "snow covered mountain"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "house",
+                    "shed"
+                ],
+                [
+                    "wave",
+                    "sandstorm"
+                ],
+                [
+                    "lighthouse",
+                    "water tower"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "house",
+                    "bungalow"
+                ],
+                [
+                    "lighthouse",
+                    "obelisk"
+                ],
+                [
+                    "wave",
+                    "sandstorm"
+                ]
+            ]
+        }
+    ]
+}

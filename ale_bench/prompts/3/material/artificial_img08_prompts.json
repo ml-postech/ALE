@@ -1,0 +1,205 @@
+{
+    "image": "artificial_img08",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "footwear",
+                    "footwear made of crystal"
+                ],
+                [
+                    "girl",
+                    "girl made of amethyst"
+                ],
+                [
+                    "glasses",
+                    "glasses made of leather"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "footwear",
+                    "footwear made of crystal"
+                ],
+                [
+                    "laptop",
+                    "laptop made of copper"
+                ],
+                [
+                    "girl",
+                    "girl made of foam"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "footwear",
+                    "footwear made of gold"
+                ],
+                [
+                    "laptop",
+                    "laptop made of bamboo"
+                ],
+                [
+                    "glasses",
+                    "glasses made of granite"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "laptop",
+                    "laptop made of ivory"
+                ],
+                [
+                    "glasses",
+                    "glasses made of leather"
+                ],
+                [
+                    "girl",
+                    "girl made of granite"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "girl",
+                    "girl made of emerald"
+                ],
+                [
+                    "footwear",
+                    "footwear made of amber"
+                ],
+                [
+                    "laptop",
+                    "laptop made of paper"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "glasses",
+                    "glasses made of graphite"
+                ],
+                [
+                    "laptop",
+                    "laptop made of leather"
+                ],
+                [
+                    "footwear",
+                    "footwear made of silk"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "girl",
+                    "girl made of gold"
+                ],
+                [
+                    "footwear",
+                    "footwear made of ivory"
+                ],
+                [
+                    "laptop",
+                    "laptop made of chrome"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "footwear",
+                    "footwear made of silver"
+                ],
+                [
+                    "laptop",
+                    "laptop made of emerald"
+                ],
+                [
+                    "girl",
+                    "girl made of wood"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "footwear",
+                    "footwear made of wool"
+                ],
+                [
+                    "glasses",
+                    "glasses made of graphite"
+                ],
+                [
+                    "laptop",
+                    "laptop made of velvet"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "footwear",
+                    "footwear made of diamond"
+                ],
+                [
+                    "laptop",
+                    "laptop made of sapphire"
+                ],
+                [
+                    "girl",
+                    "girl made of silk"
+                ]
+            ]
+        }
+    ]
+}

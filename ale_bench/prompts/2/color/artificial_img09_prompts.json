@@ -1,0 +1,165 @@
+{
+    "image": "artificial_img09",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "wave",
+                    "rust-colored wave"
+                ],
+                [
+                    "lighthouse",
+                    "brown-colored lighthouse"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "house",
+                    "green-colored house"
+                ],
+                [
+                    "wave",
+                    "brown-colored wave"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "lighthouse",
+                    "maroon-colored lighthouse"
+                ],
+                [
+                    "wave",
+                    "cream-colored wave"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "house",
+                    "cream-colored house"
+                ],
+                [
+                    "lighthouse",
+                    "crimson-colored lighthouse"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "house",
+                    "black-colored house"
+                ],
+                [
+                    "lighthouse",
+                    "red-colored lighthouse"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "house",
+                    "gray-colored house"
+                ],
+                [
+                    "lighthouse",
+                    "black-colored lighthouse"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "house",
+                    "black-colored house"
+                ],
+                [
+                    "wave",
+                    "sepia-colored wave"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "lighthouse",
+                    "orange-colored lighthouse"
+                ],
+                [
+                    "house",
+                    "navy-colored house"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "wave",
+                    "pink-colored wave"
+                ],
+                [
+                    "house",
+                    "orange-colored house"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "wave",
+                    "rust-colored wave"
+                ],
+                [
+                    "lighthouse",
+                    "blue-colored lighthouse"
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "image": "natural_img02",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "green bell pepper",
+                    "khaki-colored bell pepper"
+                ],
+                [
+                    "yellow bell pepper",
+                    "maroon-colored bell pepper"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "green bell pepper",
+                    "sepia-colored bell pepper"
+                ],
+                [
+                    "red bell pepper",
+                    "orange-colored bell pepper"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "green bell pepper",
+                    "crimson-colored bell pepper"
+                ],
+                [
+                    "yellow bell pepper",
+                    "orange-colored bell pepper"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "green bell pepper",
+                    "rust-colored bell pepper"
+                ],
+                [
+                    "red bell pepper",
+                    "maroon-colored bell pepper"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "yellow bell pepper",
+                    "gray-colored bell pepper"
+                ],
+                [
+                    "red bell pepper",
+                    "khaki-colored bell pepper"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "green bell pepper",
+                    "orange-colored bell pepper"
+                ],
+                [
+                    "red bell pepper",
+                    "cream-colored bell pepper"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "yellow bell pepper",
+                    "cream-colored bell pepper"
+                ],
+                [
+                    "green bell pepper",
+                    "navy-colored bell pepper"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "yellow bell pepper",
+                    "gray-colored bell pepper"
+                ],
+                [
+                    "green bell pepper",
+                    "purple-colored bell pepper"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "yellow bell pepper",
+                    "mint-colored bell pepper"
+                ],
+                [
+                    "green bell pepper",
+                    "pink-colored bell pepper"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "yellow bell pepper",
+                    "orange-colored bell pepper"
+                ],
+                [
+                    "red bell pepper",
+                    "green-colored bell pepper"
+                ]
+            ]
+        }
+    ]
+}

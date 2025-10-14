@@ -1,0 +1,205 @@
+{
+    "image": "artificial_img08",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "footwear",
+                    "crimson-colored footwear"
+                ],
+                [
+                    "laptop",
+                    "beige-colored laptop"
+                ],
+                [
+                    "girl",
+                    "black-colored girl"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "glasses",
+                    "blue-colored glasses"
+                ],
+                [
+                    "girl",
+                    "crimson-colored girl"
+                ],
+                [
+                    "laptop",
+                    "beige-colored laptop"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "laptop",
+                    "purple-colored laptop"
+                ],
+                [
+                    "footwear",
+                    "maroon-colored footwear"
+                ],
+                [
+                    "glasses",
+                    "brown-colored glasses"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "laptop",
+                    "yellow-colored laptop"
+                ],
+                [
+                    "glasses",
+                    "orange-colored glasses"
+                ],
+                [
+                    "girl",
+                    "cream-colored girl"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "girl",
+                    "rust-colored girl"
+                ],
+                [
+                    "footwear",
+                    "white-colored footwear"
+                ],
+                [
+                    "laptop",
+                    "khaki-colored laptop"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "laptop",
+                    "green-colored laptop"
+                ],
+                [
+                    "glasses",
+                    "green-colored glasses"
+                ],
+                [
+                    "girl",
+                    "red-colored girl"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "glasses",
+                    "red-colored glasses"
+                ],
+                [
+                    "girl",
+                    "sepia-colored girl"
+                ],
+                [
+                    "footwear",
+                    "khaki-colored footwear"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "girl",
+                    "red-colored girl"
+                ],
+                [
+                    "footwear",
+                    "orange-colored footwear"
+                ],
+                [
+                    "laptop",
+                    "cyan-colored laptop"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "footwear",
+                    "rust-colored footwear"
+                ],
+                [
+                    "girl",
+                    "black-colored girl"
+                ],
+                [
+                    "glasses",
+                    "gray-colored glasses"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "laptop",
+                    "maroon-colored laptop"
+                ],
+                [
+                    "footwear",
+                    "white-colored footwear"
+                ],
+                [
+                    "girl",
+                    "blue-colored girl"
+                ]
+            ]
+        }
+    ]
+}

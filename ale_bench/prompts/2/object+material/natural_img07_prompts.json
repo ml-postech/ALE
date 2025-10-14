@@ -1,0 +1,175 @@
+{
+    "image": "natural_img07",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "computer mouse",
+                    "pebble made of velvet"
+                ],
+                [
+                    "pen",
+                    "snake made of velvet"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "keyboard",
+                    "musical score made of plastic"
+                ],
+                [
+                    "computer mouse",
+                    "gaming mouse made of chrome"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "computer mouse",
+                    "soap made of graphite"
+                ],
+                [
+                    "keyboard",
+                    "musical score made of wool"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "pen",
+                    "toothbrush made of velvet"
+                ],
+                [
+                    "computer mouse",
+                    "cheese made of asphalt"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "pen",
+                    "wire made of velvet"
+                ],
+                [
+                    "keyboard",
+                    "musical score made of paper"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "pen",
+                    "crayon made of wool"
+                ],
+                [
+                    "keyboard",
+                    "typewriter made of steel"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "keyboard",
+                    "calender made of diamond"
+                ],
+                [
+                    "computer mouse",
+                    "rat made of asphalt"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "pen",
+                    "pencil made of aluminum"
+                ],
+                [
+                    "computer mouse",
+                    "pebble made of foam"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "computer mouse",
+                    "gaming mouse made of ivory"
+                ],
+                [
+                    "keyboard",
+                    "musical score made of wool"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "pen",
+                    "toothbrush made of linen"
+                ],
+                [
+                    "keyboard",
+                    "musical score made of foam"
+                ]
+            ]
+        }
+    ]
+}

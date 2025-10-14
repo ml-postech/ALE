@@ -1,0 +1,175 @@
+{
+    "image": "artificial_img09",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "wave",
+                    "khaki-colored wildfire"
+                ],
+                [
+                    "lighthouse",
+                    "white-colored water tower"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "wave",
+                    "cyan-colored snow covered mountain"
+                ],
+                [
+                    "house",
+                    "maroon-colored barn"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "house",
+                    "green-colored villa"
+                ],
+                [
+                    "wave",
+                    "orange-colored volcano"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "lighthouse",
+                    "pink-colored bell tower"
+                ],
+                [
+                    "house",
+                    "red-colored barn"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "house",
+                    "mint-colored apartment building"
+                ],
+                [
+                    "wave",
+                    "beige-colored volcano"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "house",
+                    "maroon-colored shed"
+                ],
+                [
+                    "wave",
+                    "gray-colored sandstorm"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "wave",
+                    "yellow-colored volcano"
+                ],
+                [
+                    "lighthouse",
+                    "crimson-colored obelisk"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "lighthouse",
+                    "white-colored skyscraper"
+                ],
+                [
+                    "wave",
+                    "navy-colored volcano"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "house",
+                    "blue-colored apartment building"
+                ],
+                [
+                    "wave",
+                    "beige-colored wildfire"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "lighthouse",
+                    "blue-colored skyscraper"
+                ],
+                [
+                    "wave",
+                    "navy-colored sandstorm"
+                ]
+            ]
+        }
+    ]
+}

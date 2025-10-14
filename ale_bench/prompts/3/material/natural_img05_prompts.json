@@ -1,0 +1,205 @@
+{
+    "image": "natural_img05",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "plant",
+                    "plant made of crystal"
+                ],
+                [
+                    "sketchbook",
+                    "sketchbook made of amethyst"
+                ],
+                [
+                    "white pot",
+                    "pot made of asphalt"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "white pot",
+                    "pot made of gold"
+                ],
+                [
+                    "sketchbook",
+                    "sketchbook made of resin"
+                ],
+                [
+                    "plant",
+                    "plant made of marble"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "plant",
+                    "plant made of bronze"
+                ],
+                [
+                    "sketchbook",
+                    "sketchbook made of steel"
+                ],
+                [
+                    "white pot",
+                    "pot made of silk"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "sketchbook",
+                    "sketchbook made of steel"
+                ],
+                [
+                    "plant",
+                    "plant made of ceramic"
+                ],
+                [
+                    "white pot",
+                    "pot made of jade"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "sketchbook",
+                    "sketchbook made of amethyst"
+                ],
+                [
+                    "white pot",
+                    "pot made of ruby"
+                ],
+                [
+                    "plant",
+                    "plant made of marble"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "sketchbook",
+                    "sketchbook made of glass"
+                ],
+                [
+                    "white pot",
+                    "pot made of wood"
+                ],
+                [
+                    "plant",
+                    "plant made of linen"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "white pot",
+                    "pot made of gold"
+                ],
+                [
+                    "sketchbook",
+                    "sketchbook made of amethyst"
+                ],
+                [
+                    "plant",
+                    "plant made of aluminum"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "white pot",
+                    "pot made of emerald"
+                ],
+                [
+                    "sketchbook",
+                    "sketchbook made of granite"
+                ],
+                [
+                    "plant",
+                    "plant made of rubber"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "plant",
+                    "plant made of amber"
+                ],
+                [
+                    "sketchbook",
+                    "sketchbook made of rubber"
+                ],
+                [
+                    "white pot",
+                    "pot made of ivory"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "sketchbook",
+                    "sketchbook made of bronze"
+                ],
+                [
+                    "plant",
+                    "plant made of wood"
+                ],
+                [
+                    "white pot",
+                    "pot made of marble"
+                ]
+            ]
+        }
+    ]
+}

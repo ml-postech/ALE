@@ -1,0 +1,215 @@
+{
+    "image": "artificial_img09",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "house",
+                    "apartment building made of ceramic"
+                ],
+                [
+                    "wave",
+                    "sandstorm made of diamond"
+                ],
+                [
+                    "lighthouse",
+                    "obelisk made of granite"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "wave",
+                    "volcano made of crystal"
+                ],
+                [
+                    "house",
+                    "shed made of marble"
+                ],
+                [
+                    "lighthouse",
+                    "watchtower made of silver"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "wave",
+                    "sandstorm made of crystal"
+                ],
+                [
+                    "lighthouse",
+                    "bell tower made of paper"
+                ],
+                [
+                    "house",
+                    "barn made of jade"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "lighthouse",
+                    "radio tower made of ruby"
+                ],
+                [
+                    "wave",
+                    "wildfire made of marble"
+                ],
+                [
+                    "house",
+                    "shed made of gold"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "wave",
+                    "snow covered mountain made of glass"
+                ],
+                [
+                    "lighthouse",
+                    "radio tower made of latex"
+                ],
+                [
+                    "house",
+                    "mansion made of granite"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "house",
+                    "barn made of latex"
+                ],
+                [
+                    "lighthouse",
+                    "skyscraper made of velvet"
+                ],
+                [
+                    "wave",
+                    "volcano made of glass"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "house",
+                    "cabin made of sapphire"
+                ],
+                [
+                    "lighthouse",
+                    "skyscraper made of graphite"
+                ],
+                [
+                    "wave",
+                    "wildfire made of steel"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "house",
+                    "cabin made of wood"
+                ],
+                [
+                    "wave",
+                    "wildfire made of chrome"
+                ],
+                [
+                    "lighthouse",
+                    "obelisk made of emerald"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "lighthouse",
+                    "bell tower made of diamond"
+                ],
+                [
+                    "wave",
+                    "snow covered mountain made of bronze"
+                ],
+                [
+                    "house",
+                    "barn made of emerald"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "wave",
+                    "snow covered mountain made of wood"
+                ],
+                [
+                    "lighthouse",
+                    "clock tower made of wool"
+                ],
+                [
+                    "house",
+                    "barn made of silver"
+                ]
+            ]
+        }
+    ]
+}

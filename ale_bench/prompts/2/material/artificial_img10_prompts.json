@@ -1,0 +1,165 @@
+{
+    "image": "artificial_img10",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "floor made of plastic"
+                ],
+                [
+                    "flowerpot",
+                    "flowerpot made of ivory"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "wall",
+                    "wall made of paper"
+                ],
+                [
+                    "floor",
+                    "floor made of silver"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "tree",
+                    "tree made of leather"
+                ],
+                [
+                    "floor",
+                    "floor made of foam"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "flowerpot",
+                    "flowerpot made of silver"
+                ],
+                [
+                    "floor",
+                    "floor made of paper"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "tree",
+                    "tree made of graphite"
+                ],
+                [
+                    "floor",
+                    "floor made of ceramic"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "flowerpot",
+                    "flowerpot made of foam"
+                ],
+                [
+                    "floor",
+                    "floor made of steel"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "floor made of jade"
+                ],
+                [
+                    "tree",
+                    "tree made of diamond"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "floor made of turquoise"
+                ],
+                [
+                    "tree",
+                    "tree made of paper"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "wall",
+                    "wall made of leather"
+                ],
+                [
+                    "floor",
+                    "floor made of clay"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "floor made of ceramic"
+                ],
+                [
+                    "flowerpot",
+                    "flowerpot made of acrylic"
+                ]
+            ]
+        }
+    ]
+}

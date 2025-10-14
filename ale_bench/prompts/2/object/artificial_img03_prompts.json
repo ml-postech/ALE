@@ -1,0 +1,165 @@
+{
+    "image": "artificial_img03",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "moon",
+                    "UFO"
+                ],
+                [
+                    "wolf",
+                    "cat"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "mountain",
+                    "hill"
+                ],
+                [
+                    "moon",
+                    "soccer ball"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "moon",
+                    "balloon"
+                ],
+                [
+                    "wolf",
+                    "lion"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "wolf",
+                    "dragon"
+                ],
+                [
+                    "mountain",
+                    "volcano"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "moon",
+                    "soccer ball"
+                ],
+                [
+                    "mountain",
+                    "wave"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "mountain",
+                    "hill"
+                ],
+                [
+                    "wolf",
+                    "goat"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "moon",
+                    "UFO"
+                ],
+                [
+                    "mountain",
+                    "glacier"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "mountain",
+                    "glacier"
+                ],
+                [
+                    "wolf",
+                    "cat"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "moon",
+                    "soccer ball"
+                ],
+                [
+                    "wolf",
+                    "tiger"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "moon",
+                    "soccer ball"
+                ],
+                [
+                    "mountain",
+                    "garden"
+                ]
+            ]
+        }
+    ]
+}

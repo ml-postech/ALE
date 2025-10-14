@@ -1,0 +1,205 @@
+{
+    "image": "natural_img10",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "plate",
+                    "dish"
+                ],
+                [
+                    "green macaron",
+                    "eclair"
+                ],
+                [
+                    "yellow macaron",
+                    "cake"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "yellow macaron",
+                    "scone"
+                ],
+                [
+                    "green macaron",
+                    "muffin"
+                ],
+                [
+                    "pink macaron",
+                    "cookie"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "plate",
+                    "saucer"
+                ],
+                [
+                    "green macaron",
+                    "tofu"
+                ],
+                [
+                    "yellow macaron",
+                    "muffin"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "yellow macaron",
+                    "cake"
+                ],
+                [
+                    "green macaron",
+                    "tofu"
+                ],
+                [
+                    "plate",
+                    "tray"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "yellow macaron",
+                    "eclair"
+                ],
+                [
+                    "pink macaron",
+                    "scone"
+                ],
+                [
+                    "plate",
+                    "tureen"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "yellow macaron",
+                    "cake"
+                ],
+                [
+                    "plate",
+                    "tureen"
+                ],
+                [
+                    "green macaron",
+                    "eclair"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "plate",
+                    "saucer"
+                ],
+                [
+                    "pink macaron",
+                    "brownie"
+                ],
+                [
+                    "yellow macaron",
+                    "scone"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "plate",
+                    "dish"
+                ],
+                [
+                    "yellow macaron",
+                    "donut"
+                ],
+                [
+                    "green macaron",
+                    "cake"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "plate",
+                    "dish"
+                ],
+                [
+                    "yellow macaron",
+                    "butter"
+                ],
+                [
+                    "pink macaron",
+                    "chocolate"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "green macaron",
+                    "brownie"
+                ],
+                [
+                    "plate",
+                    "tureen"
+                ],
+                [
+                    "yellow macaron",
+                    "donut"
+                ]
+            ]
+        }
+    ]
+}

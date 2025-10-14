@@ -1,0 +1,165 @@
+{
+    "image": "natural_img10",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "green macaron",
+                    "macaron made of resin"
+                ],
+                [
+                    "pink macaron",
+                    "macaron made of velvet"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "plate",
+                    "plate made of leather"
+                ],
+                [
+                    "yellow macaron",
+                    "macaron made of ivory"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "pink macaron",
+                    "macaron made of aluminum"
+                ],
+                [
+                    "green macaron",
+                    "macaron made of ceramic"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "pink macaron",
+                    "macaron made of acrylic"
+                ],
+                [
+                    "green macaron",
+                    "macaron made of silk"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "green macaron",
+                    "macaron made of ceramic"
+                ],
+                [
+                    "pink macaron",
+                    "macaron made of silver"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "plate",
+                    "plate made of crystal"
+                ],
+                [
+                    "yellow macaron",
+                    "macaron made of copper"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "green macaron",
+                    "macaron made of resin"
+                ],
+                [
+                    "yellow macaron",
+                    "macaron made of graphite"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "yellow macaron",
+                    "macaron made of clay"
+                ],
+                [
+                    "plate",
+                    "plate made of jade"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "yellow macaron",
+                    "macaron made of ceramic"
+                ],
+                [
+                    "pink macaron",
+                    "macaron made of clay"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "yellow macaron",
+                    "macaron made of concrete"
+                ],
+                [
+                    "pink macaron",
+                    "macaron made of wool"
+                ]
+            ]
+        }
+    ]
+}

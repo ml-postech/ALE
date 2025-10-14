@@ -1,0 +1,205 @@
+{
+    "image": "natural_img06",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "knife",
+                    "knife made of aluminum"
+                ],
+                [
+                    "sunglass",
+                    "sunglass made of chrome"
+                ],
+                [
+                    "watch",
+                    "watch made of ruby"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "watch",
+                    "watch made of amber"
+                ],
+                [
+                    "knife",
+                    "knife made of chrome"
+                ],
+                [
+                    "sunglass",
+                    "sunglass made of resin"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "sunglass",
+                    "sunglass made of leather"
+                ],
+                [
+                    "knife",
+                    "knife made of latex"
+                ],
+                [
+                    "watch",
+                    "watch made of chrome"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "watch",
+                    "watch made of silk"
+                ],
+                [
+                    "knife",
+                    "knife made of rubber"
+                ],
+                [
+                    "sunglass",
+                    "sunglass made of amber"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "watch",
+                    "watch made of glass"
+                ],
+                [
+                    "knife",
+                    "knife made of linen"
+                ],
+                [
+                    "sunglass",
+                    "sunglass made of emerald"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "watch",
+                    "watch made of latex"
+                ],
+                [
+                    "knife",
+                    "knife made of aluminum"
+                ],
+                [
+                    "sunglass",
+                    "sunglass made of marble"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "watch",
+                    "watch made of bamboo"
+                ],
+                [
+                    "knife",
+                    "knife made of copper"
+                ],
+                [
+                    "sunglass",
+                    "sunglass made of plastic"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "knife",
+                    "knife made of glass"
+                ],
+                [
+                    "sunglass",
+                    "sunglass made of aluminum"
+                ],
+                [
+                    "watch",
+                    "watch made of graphite"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "watch",
+                    "watch made of rubber"
+                ],
+                [
+                    "sunglass",
+                    "sunglass made of leather"
+                ],
+                [
+                    "knife",
+                    "knife made of silver"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "sunglass",
+                    "sunglass made of foam"
+                ],
+                [
+                    "knife",
+                    "knife made of marble"
+                ],
+                [
+                    "watch",
+                    "watch made of gold"
+                ]
+            ]
+        }
+    ]
+}

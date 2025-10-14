@@ -1,0 +1,215 @@
+{
+    "image": "natural_img09",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "footwear",
+                    "orange-colored ballet flats"
+                ],
+                [
+                    "man",
+                    "beige-colored alien"
+                ],
+                [
+                    "yoga mat",
+                    "navy-colored ice"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "footwear",
+                    "blue-colored boots"
+                ],
+                [
+                    "man",
+                    "brown-colored alien"
+                ],
+                [
+                    "yoga mat",
+                    "blue-colored blanket"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "footwear",
+                    "cream-colored boots"
+                ],
+                [
+                    "man",
+                    "brown-colored male student"
+                ],
+                [
+                    "yoga mat",
+                    "gray-colored ice"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "yoga mat",
+                    "white-colored towel"
+                ],
+                [
+                    "man",
+                    "beige-colored woman"
+                ],
+                [
+                    "footwear",
+                    "pink-colored clogs"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "yoga mat",
+                    "blue-colored carpet"
+                ],
+                [
+                    "footwear",
+                    "crimson-colored ballet flats"
+                ],
+                [
+                    "man",
+                    "pink-colored male researcher"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "yoga mat",
+                    "white-colored gym mat"
+                ],
+                [
+                    "footwear",
+                    "blue-colored clogs"
+                ],
+                [
+                    "man",
+                    "maroon-colored old man"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "footwear",
+                    "red-colored flip flops"
+                ],
+                [
+                    "yoga mat",
+                    "pink-colored towel"
+                ],
+                [
+                    "man",
+                    "beige-colored male student"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "man",
+                    "cyan-colored male worker"
+                ],
+                [
+                    "yoga mat",
+                    "rust-colored carpet"
+                ],
+                [
+                    "footwear",
+                    "yellow-colored slippers"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "man",
+                    "black-colored woman"
+                ],
+                [
+                    "footwear",
+                    "sepia-colored loafers"
+                ],
+                [
+                    "yoga mat",
+                    "sepia-colored ice"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "footwear",
+                    "khaki-colored flip flops"
+                ],
+                [
+                    "yoga mat",
+                    "mint-colored gym mat"
+                ],
+                [
+                    "man",
+                    "red-colored alien"
+                ]
+            ]
+        }
+    ]
+}

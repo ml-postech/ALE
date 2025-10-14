@@ -1,0 +1,175 @@
+{
+    "image": "natural_img04",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "cocktail",
+                    "milkshake made of granite"
+                ],
+                [
+                    "sand",
+                    "salt made of turquoise"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "sea",
+                    "lake made of foam"
+                ],
+                [
+                    "sand",
+                    "gravel made of diamond"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "cocktail",
+                    "martini made of latex"
+                ],
+                [
+                    "sand",
+                    "dirt made of linen"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "cocktail",
+                    "soda made of clay"
+                ],
+                [
+                    "sea",
+                    "north pole made of emerald"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "cocktail",
+                    "beer made of ivory"
+                ],
+                [
+                    "sand",
+                    "dirt made of sapphire"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "sand",
+                    "snow made of foam"
+                ],
+                [
+                    "cocktail",
+                    "juice made of wool"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "sand",
+                    "salt made of ruby"
+                ],
+                [
+                    "cocktail",
+                    "soda made of ivory"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "sea",
+                    "meadow made of amethyst"
+                ],
+                [
+                    "sand",
+                    "gravel made of ruby"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "sea",
+                    "north pole made of silk"
+                ],
+                [
+                    "cocktail",
+                    "green tea made of silver"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "sea",
+                    "north pole made of chrome"
+                ],
+                [
+                    "sand",
+                    "salt made of silk"
+                ]
+            ]
+        }
+    ]
+}

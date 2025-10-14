@@ -1,0 +1,215 @@
+{
+    "image": "artificial_img07",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "pizza",
+                    "steak made of resin"
+                ],
+                [
+                    "dress",
+                    "blouse made of graphite"
+                ],
+                [
+                    "hair",
+                    "braided hair made of ivory"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "pizza",
+                    "flatbread made of ivory"
+                ],
+                [
+                    "boat",
+                    "ship made of turquoise"
+                ],
+                [
+                    "hair",
+                    "afro hair made of glass"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "hair",
+                    "braided hair made of chrome"
+                ],
+                [
+                    "boat",
+                    "kayak made of acrylic"
+                ],
+                [
+                    "dress",
+                    "kimono made of chrome"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "dress",
+                    "jumpsuit made of acrylic"
+                ],
+                [
+                    "boat",
+                    "canoe made of linen"
+                ],
+                [
+                    "hair",
+                    "afro hair made of asphalt"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "pizza",
+                    "sandwich made of asphalt"
+                ],
+                [
+                    "hair",
+                    "afro hair made of acrylic"
+                ],
+                [
+                    "dress",
+                    "kimono made of sapphire"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "dress",
+                    "blouse made of emerald"
+                ],
+                [
+                    "pizza",
+                    "flatbread made of latex"
+                ],
+                [
+                    "hair",
+                    "braided hair made of glass"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "pizza",
+                    "pasta made of bronze"
+                ],
+                [
+                    "hair",
+                    "curly hair made of ruby"
+                ],
+                [
+                    "boat",
+                    "submarine made of silk"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "hair",
+                    "braided hair made of amber"
+                ],
+                [
+                    "pizza",
+                    "pasta made of acrylic"
+                ],
+                [
+                    "dress",
+                    "gown made of glass"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "hair",
+                    "afro hair made of ivory"
+                ],
+                [
+                    "pizza",
+                    "steak made of wood"
+                ],
+                [
+                    "boat",
+                    "ship made of concrete"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "dress",
+                    "jumpsuit made of acrylic"
+                ],
+                [
+                    "boat",
+                    "kayak made of acrylic"
+                ],
+                [
+                    "hair",
+                    "curly hair made of crystal"
+                ]
+            ]
+        }
+    ]
+}

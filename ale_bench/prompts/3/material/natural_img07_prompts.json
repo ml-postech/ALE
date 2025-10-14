@@ -1,0 +1,205 @@
+{
+    "image": "natural_img07",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "computer mouse",
+                    "computer mouse made of leather"
+                ],
+                [
+                    "pen",
+                    "pen made of turquoise"
+                ],
+                [
+                    "keyboard",
+                    "keyboard made of wool"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "computer mouse",
+                    "computer mouse made of glass"
+                ],
+                [
+                    "keyboard",
+                    "keyboard made of linen"
+                ],
+                [
+                    "pen",
+                    "pen made of asphalt"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "pen",
+                    "pen made of amethyst"
+                ],
+                [
+                    "computer mouse",
+                    "computer mouse made of rubber"
+                ],
+                [
+                    "keyboard",
+                    "keyboard made of resin"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "computer mouse",
+                    "computer mouse made of marble"
+                ],
+                [
+                    "keyboard",
+                    "keyboard made of plastic"
+                ],
+                [
+                    "pen",
+                    "pen made of crystal"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "pen",
+                    "pen made of graphite"
+                ],
+                [
+                    "computer mouse",
+                    "computer mouse made of ivory"
+                ],
+                [
+                    "keyboard",
+                    "keyboard made of silver"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "computer mouse",
+                    "computer mouse made of aluminum"
+                ],
+                [
+                    "pen",
+                    "pen made of ivory"
+                ],
+                [
+                    "keyboard",
+                    "keyboard made of latex"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "keyboard",
+                    "keyboard made of crystal"
+                ],
+                [
+                    "pen",
+                    "pen made of acrylic"
+                ],
+                [
+                    "computer mouse",
+                    "computer mouse made of ruby"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "pen",
+                    "pen made of resin"
+                ],
+                [
+                    "computer mouse",
+                    "computer mouse made of jade"
+                ],
+                [
+                    "keyboard",
+                    "keyboard made of jade"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "keyboard",
+                    "keyboard made of granite"
+                ],
+                [
+                    "pen",
+                    "pen made of sapphire"
+                ],
+                [
+                    "computer mouse",
+                    "computer mouse made of aluminum"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "pen",
+                    "pen made of rubber"
+                ],
+                [
+                    "computer mouse",
+                    "computer mouse made of glass"
+                ],
+                [
+                    "keyboard",
+                    "keyboard made of resin"
+                ]
+            ]
+        }
+    ]
+}

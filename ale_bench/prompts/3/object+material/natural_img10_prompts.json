@@ -1,0 +1,215 @@
+{
+    "image": "natural_img10",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "green macaron",
+                    "brownie made of turquoise"
+                ],
+                [
+                    "pink macaron",
+                    "butter made of crystal"
+                ],
+                [
+                    "yellow macaron",
+                    "donut made of foam"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "yellow macaron",
+                    "tofu made of ceramic"
+                ],
+                [
+                    "green macaron",
+                    "donut made of turquoise"
+                ],
+                [
+                    "plate",
+                    "tray made of asphalt"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "plate",
+                    "bowl made of paper"
+                ],
+                [
+                    "pink macaron",
+                    "cake made of clay"
+                ],
+                [
+                    "green macaron",
+                    "cake made of aluminum"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "yellow macaron",
+                    "tofu made of graphite"
+                ],
+                [
+                    "green macaron",
+                    "chocolate made of steel"
+                ],
+                [
+                    "plate",
+                    "platter made of amber"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "plate",
+                    "platter made of ceramic"
+                ],
+                [
+                    "pink macaron",
+                    "brownie made of acrylic"
+                ],
+                [
+                    "yellow macaron",
+                    "eclair made of bamboo"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "green macaron",
+                    "donut made of marble"
+                ],
+                [
+                    "plate",
+                    "dish made of steel"
+                ],
+                [
+                    "yellow macaron",
+                    "cupcake made of velvet"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "green macaron",
+                    "eclair made of diamond"
+                ],
+                [
+                    "plate",
+                    "bowl made of gold"
+                ],
+                [
+                    "pink macaron",
+                    "eclair made of emerald"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "plate",
+                    "tray made of steel"
+                ],
+                [
+                    "green macaron",
+                    "cake made of diamond"
+                ],
+                [
+                    "yellow macaron",
+                    "chocolate made of wool"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "pink macaron",
+                    "tofu made of bronze"
+                ],
+                [
+                    "plate",
+                    "saucer made of emerald"
+                ],
+                [
+                    "yellow macaron",
+                    "cupcake made of wool"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "yellow macaron",
+                    "scone made of graphite"
+                ],
+                [
+                    "pink macaron",
+                    "cake made of resin"
+                ],
+                [
+                    "plate",
+                    "tray made of amber"
+                ]
+            ]
+        }
+    ]
+}

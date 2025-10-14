@@ -1,0 +1,215 @@
+{
+    "image": "natural_img08",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "green car",
+                    "van made of sapphire"
+                ],
+                [
+                    "yellow car",
+                    "ambulance made of turquoise"
+                ],
+                [
+                    "red car",
+                    "van made of bronze"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "yellow car",
+                    "police car made of amber"
+                ],
+                [
+                    "red car",
+                    "tank made of granite"
+                ],
+                [
+                    "green car",
+                    "sedan made of concrete"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "red car",
+                    "bus made of aluminum"
+                ],
+                [
+                    "green car",
+                    "bus made of resin"
+                ],
+                [
+                    "yellow car",
+                    "bus made of turquoise"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "green car",
+                    "racing car made of velvet"
+                ],
+                [
+                    "yellow car",
+                    "van made of emerald"
+                ],
+                [
+                    "red car",
+                    "truck made of steel"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "green car",
+                    "convertible made of glass"
+                ],
+                [
+                    "yellow car",
+                    "truck made of resin"
+                ],
+                [
+                    "red car",
+                    "police car made of clay"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "red car",
+                    "racing car made of steel"
+                ],
+                [
+                    "green car",
+                    "tank made of resin"
+                ],
+                [
+                    "yellow car",
+                    "police car made of concrete"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "yellow car",
+                    "racing car made of ruby"
+                ],
+                [
+                    "green car",
+                    "police car made of paper"
+                ],
+                [
+                    "red car",
+                    "racing car made of ivory"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "yellow car",
+                    "van made of jade"
+                ],
+                [
+                    "red car",
+                    "truck made of ruby"
+                ],
+                [
+                    "green car",
+                    "convertible made of wool"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "red car",
+                    "jeep made of concrete"
+                ],
+                [
+                    "yellow car",
+                    "van made of linen"
+                ],
+                [
+                    "green car",
+                    "sedan made of acrylic"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "red car",
+                    "sedan made of gold"
+                ],
+                [
+                    "green car",
+                    "sedan made of turquoise"
+                ],
+                [
+                    "yellow car",
+                    "racing car made of wood"
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "image": "artificial_img05",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "book",
+                    "cushion"
+                ],
+                [
+                    "cup",
+                    "tumbler"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "book",
+                    "diary"
+                ],
+                [
+                    "steam",
+                    "tornado"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "steam",
+                    "smog"
+                ],
+                [
+                    "book",
+                    "tablet"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "steam",
+                    "smoke"
+                ],
+                [
+                    "cup",
+                    "jar"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "cup",
+                    "tumbler"
+                ],
+                [
+                    "steam",
+                    "toxic gas"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "cup",
+                    "beaker"
+                ],
+                [
+                    "steam",
+                    "tornado"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "steam",
+                    "cloud"
+                ],
+                [
+                    "book",
+                    "magazine"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "steam",
+                    "cloud"
+                ],
+                [
+                    "cup",
+                    "chalice"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "steam",
+                    "ghost"
+                ],
+                [
+                    "book",
+                    "magazine"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "book",
+                    "tablet"
+                ],
+                [
+                    "steam",
+                    "toxic gas"
+                ]
+            ]
+        }
+    ]
+}

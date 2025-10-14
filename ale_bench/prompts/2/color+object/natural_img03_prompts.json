@@ -1,0 +1,175 @@
+{
+    "image": "natural_img03",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "shirt",
+                    "purple-colored hoodie"
+                ],
+                [
+                    "boy",
+                    "green-colored soccer player boy"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "boy",
+                    "green-colored schoolboy"
+                ],
+                [
+                    "shirt",
+                    "rust-colored sweater"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "girl",
+                    "rust-colored female student"
+                ],
+                [
+                    "boy",
+                    "black-colored schoolboy"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "shirt",
+                    "yellow-colored t-shirt"
+                ],
+                [
+                    "girl",
+                    "pink-colored female athlete"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "girl",
+                    "crimson-colored woman"
+                ],
+                [
+                    "shirt",
+                    "cream-colored polo shirt"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "girl",
+                    "brown-colored boy"
+                ],
+                [
+                    "shirt",
+                    "beige-colored sweater"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "boy",
+                    "black-colored schoolboy"
+                ],
+                [
+                    "girl",
+                    "green-colored boy"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "girl",
+                    "navy-colored female student"
+                ],
+                [
+                    "boy",
+                    "orange-colored schoolboy"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "girl",
+                    "green-colored alien"
+                ],
+                [
+                    "shirt",
+                    "crimson-colored t-shirt"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "shirt",
+                    "cyan-colored cardigan"
+                ],
+                [
+                    "girl",
+                    "pink-colored woman"
+                ]
+            ]
+        }
+    ]
+}

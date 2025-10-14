@@ -1,0 +1,215 @@
+{
+    "image": "artificial_img03",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "wolf",
+                    "cat made of bronze"
+                ],
+                [
+                    "moon",
+                    "UFO made of wool"
+                ],
+                [
+                    "mountain",
+                    "hill made of velvet"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "wolf",
+                    "goat made of bronze"
+                ],
+                [
+                    "mountain",
+                    "glacier made of wool"
+                ],
+                [
+                    "moon",
+                    "soccer ball made of rubber"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "wolf",
+                    "dog made of linen"
+                ],
+                [
+                    "mountain",
+                    "glacier made of amber"
+                ],
+                [
+                    "moon",
+                    "balloon made of paper"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "wolf",
+                    "cat made of wood"
+                ],
+                [
+                    "mountain",
+                    "forest made of resin"
+                ],
+                [
+                    "moon",
+                    "UFO made of linen"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "mountain",
+                    "forest made of resin"
+                ],
+                [
+                    "moon",
+                    "UFO made of graphite"
+                ],
+                [
+                    "wolf",
+                    "horse made of amethyst"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "mountain",
+                    "wave made of silver"
+                ],
+                [
+                    "moon",
+                    "balloon made of silk"
+                ],
+                [
+                    "wolf",
+                    "cat made of asphalt"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "mountain",
+                    "volcano made of granite"
+                ],
+                [
+                    "moon",
+                    "soccer ball made of latex"
+                ],
+                [
+                    "wolf",
+                    "dog made of silver"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "mountain",
+                    "volcano made of rubber"
+                ],
+                [
+                    "moon",
+                    "UFO made of linen"
+                ],
+                [
+                    "wolf",
+                    "cat made of foam"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "wolf",
+                    "dragon made of resin"
+                ],
+                [
+                    "mountain",
+                    "garden made of rubber"
+                ],
+                [
+                    "moon",
+                    "balloon made of latex"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "wolf",
+                    "dragon made of ceramic"
+                ],
+                [
+                    "mountain",
+                    "wave made of ivory"
+                ],
+                [
+                    "moon",
+                    "soccer ball made of crystal"
+                ]
+            ]
+        }
+    ]
+}

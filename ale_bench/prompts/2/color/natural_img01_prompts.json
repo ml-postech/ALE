@@ -1,0 +1,165 @@
+{
+    "image": "natural_img01",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "blue globe",
+                    "red-colored globe"
+                ],
+                [
+                    "box",
+                    "sepia-colored box"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "box",
+                    "red-colored box"
+                ],
+                [
+                    "cone",
+                    "beige-colored cone"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "cone",
+                    "cream-colored cone"
+                ],
+                [
+                    "blue globe",
+                    "sepia-colored globe"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "blue globe",
+                    "cyan-colored globe"
+                ],
+                [
+                    "cone",
+                    "purple-colored cone"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "box",
+                    "green-colored box"
+                ],
+                [
+                    "blue globe",
+                    "navy-colored globe"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "box",
+                    "navy-colored box"
+                ],
+                [
+                    "cone",
+                    "blue-colored cone"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "orange globe",
+                    "maroon-colored globe"
+                ],
+                [
+                    "box",
+                    "purple-colored box"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "cone",
+                    "brown-colored cone"
+                ],
+                [
+                    "blue globe",
+                    "black-colored globe"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "blue globe",
+                    "gray-colored globe"
+                ],
+                [
+                    "box",
+                    "mint-colored box"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "cone",
+                    "pink-colored cone"
+                ],
+                [
+                    "box",
+                    "red-colored box"
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,165 @@
+{
+    "image": "artificial_img04",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "parasol",
+                    "parasol made of ivory"
+                ],
+                [
+                    "sun",
+                    "sun made of copper"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "sun",
+                    "sun made of bamboo"
+                ],
+                [
+                    "parasol",
+                    "parasol made of asphalt"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "parasol",
+                    "parasol made of ruby"
+                ],
+                [
+                    "cloud",
+                    "cloud made of ivory"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "parasol",
+                    "parasol made of ivory"
+                ],
+                [
+                    "cloud",
+                    "cloud made of wool"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "parasol",
+                    "parasol made of ruby"
+                ],
+                [
+                    "cloud",
+                    "cloud made of amber"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "cloud",
+                    "cloud made of bronze"
+                ],
+                [
+                    "sun",
+                    "sun made of ivory"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "parasol",
+                    "parasol made of ruby"
+                ],
+                [
+                    "sun",
+                    "sun made of sapphire"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "sun",
+                    "sun made of gold"
+                ],
+                [
+                    "cloud",
+                    "cloud made of amber"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "cloud",
+                    "cloud made of clay"
+                ],
+                [
+                    "parasol",
+                    "parasol made of diamond"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "sun",
+                    "sun made of acrylic"
+                ],
+                [
+                    "parasol",
+                    "parasol made of diamond"
+                ]
+            ]
+        }
+    ]
+}

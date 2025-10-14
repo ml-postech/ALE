@@ -1,0 +1,165 @@
+{
+    "image": "artificial_img05",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "steam",
+                    "beige-colored steam"
+                ],
+                [
+                    "book",
+                    "brown-colored book"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "cup",
+                    "white-colored cup"
+                ],
+                [
+                    "steam",
+                    "green-colored steam"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "cup",
+                    "sepia-colored cup"
+                ],
+                [
+                    "steam",
+                    "navy-colored steam"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "book",
+                    "mint-colored book"
+                ],
+                [
+                    "cup",
+                    "black-colored cup"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "book",
+                    "blue-colored book"
+                ],
+                [
+                    "cup",
+                    "red-colored cup"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "steam",
+                    "black-colored steam"
+                ],
+                [
+                    "book",
+                    "cream-colored book"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "steam",
+                    "orange-colored steam"
+                ],
+                [
+                    "cup",
+                    "yellow-colored cup"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "cup",
+                    "brown-colored cup"
+                ],
+                [
+                    "book",
+                    "cyan-colored book"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "book",
+                    "khaki-colored book"
+                ],
+                [
+                    "steam",
+                    "white-colored steam"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "steam",
+                    "white-colored steam"
+                ],
+                [
+                    "book",
+                    "navy-colored book"
+                ]
+            ]
+        }
+    ]
+}

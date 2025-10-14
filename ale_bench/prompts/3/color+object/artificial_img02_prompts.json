@@ -1,0 +1,215 @@
+{
+    "image": "artificial_img02",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "houseplant",
+                    "sepia-colored cactus"
+                ],
+                [
+                    "table",
+                    "cream-colored dining table"
+                ],
+                [
+                    "flowerpot",
+                    "gray-colored vase"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "flowerpot",
+                    "brown-colored vase"
+                ],
+                [
+                    "houseplant",
+                    "white-colored broccoli"
+                ],
+                [
+                    "table",
+                    "cream-colored dining table"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "houseplant",
+                    "navy-colored bush"
+                ],
+                [
+                    "table",
+                    "orange-colored coffee table"
+                ],
+                [
+                    "flowerpot",
+                    "navy-colored basket"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "houseplant",
+                    "gray-colored tree"
+                ],
+                [
+                    "table",
+                    "crimson-colored nightstand"
+                ],
+                [
+                    "flowerpot",
+                    "crimson-colored bucket"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "table",
+                    "mint-colored dining table"
+                ],
+                [
+                    "houseplant",
+                    "mint-colored tree"
+                ],
+                [
+                    "flowerpot",
+                    "sepia-colored lantern"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "flowerpot",
+                    "green-colored mug"
+                ],
+                [
+                    "houseplant",
+                    "blue-colored succulent"
+                ],
+                [
+                    "table",
+                    "navy-colored nightstand"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "flowerpot",
+                    "rust-colored mug"
+                ],
+                [
+                    "houseplant",
+                    "sepia-colored cactus"
+                ],
+                [
+                    "table",
+                    "rust-colored nightstand"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "houseplant",
+                    "brown-colored broccoli"
+                ],
+                [
+                    "flowerpot",
+                    "crimson-colored bucket"
+                ],
+                [
+                    "table",
+                    "brown-colored dining table"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "houseplant",
+                    "cyan-colored broccoli"
+                ],
+                [
+                    "table",
+                    "green-colored dining table"
+                ],
+                [
+                    "flowerpot",
+                    "beige-colored jar"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "flowerpot",
+                    "brown-colored vase"
+                ],
+                [
+                    "houseplant",
+                    "mint-colored cactus"
+                ],
+                [
+                    "table",
+                    "khaki-colored nightstand"
+                ]
+            ]
+        }
+    ]
+}

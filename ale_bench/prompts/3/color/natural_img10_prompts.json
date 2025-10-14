@@ -1,0 +1,205 @@
+{
+    "image": "natural_img10",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "green macaron",
+                    "khaki-colored macaron"
+                ],
+                [
+                    "pink macaron",
+                    "khaki-colored macaron"
+                ],
+                [
+                    "plate",
+                    "pink-colored plate"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "green macaron",
+                    "navy-colored macaron"
+                ],
+                [
+                    "yellow macaron",
+                    "pink-colored macaron"
+                ],
+                [
+                    "plate",
+                    "gray-colored plate"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "plate",
+                    "cream-colored plate"
+                ],
+                [
+                    "pink macaron",
+                    "orange-colored macaron"
+                ],
+                [
+                    "yellow macaron",
+                    "cyan-colored macaron"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "pink macaron",
+                    "cyan-colored macaron"
+                ],
+                [
+                    "green macaron",
+                    "beige-colored macaron"
+                ],
+                [
+                    "plate",
+                    "mint-colored plate"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "pink macaron",
+                    "white-colored macaron"
+                ],
+                [
+                    "green macaron",
+                    "yellow-colored macaron"
+                ],
+                [
+                    "plate",
+                    "navy-colored plate"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "green macaron",
+                    "green-colored macaron"
+                ],
+                [
+                    "pink macaron",
+                    "brown-colored macaron"
+                ],
+                [
+                    "plate",
+                    "purple-colored plate"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "pink macaron",
+                    "rust-colored macaron"
+                ],
+                [
+                    "yellow macaron",
+                    "cream-colored macaron"
+                ],
+                [
+                    "plate",
+                    "green-colored plate"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "pink macaron",
+                    "yellow-colored macaron"
+                ],
+                [
+                    "green macaron",
+                    "cream-colored macaron"
+                ],
+                [
+                    "yellow macaron",
+                    "brown-colored macaron"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "yellow macaron",
+                    "rust-colored macaron"
+                ],
+                [
+                    "pink macaron",
+                    "rust-colored macaron"
+                ],
+                [
+                    "green macaron",
+                    "red-colored macaron"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "yellow macaron",
+                    "black-colored macaron"
+                ],
+                [
+                    "green macaron",
+                    "pink-colored macaron"
+                ],
+                [
+                    "plate",
+                    "white-colored plate"
+                ]
+            ]
+        }
+    ]
+}

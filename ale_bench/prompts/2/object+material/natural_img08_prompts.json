@@ -1,0 +1,175 @@
+{
+    "image": "natural_img08",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "green car",
+                    "police car made of diamond"
+                ],
+                [
+                    "red car",
+                    "van made of paper"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "yellow car",
+                    "ambulance made of resin"
+                ],
+                [
+                    "green car",
+                    "police car made of emerald"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "yellow car",
+                    "convertible made of linen"
+                ],
+                [
+                    "red car",
+                    "truck made of silver"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "green car",
+                    "jeep made of ruby"
+                ],
+                [
+                    "yellow car",
+                    "jeep made of amber"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "green car",
+                    "sedan made of velvet"
+                ],
+                [
+                    "red car",
+                    "police car made of ruby"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "red car",
+                    "racing car made of amber"
+                ],
+                [
+                    "green car",
+                    "racing car made of turquoise"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "green car",
+                    "jeep made of granite"
+                ],
+                [
+                    "yellow car",
+                    "van made of emerald"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "red car",
+                    "sedan made of velvet"
+                ],
+                [
+                    "yellow car",
+                    "police car made of graphite"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "green car",
+                    "jeep made of concrete"
+                ],
+                [
+                    "red car",
+                    "police car made of linen"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "green car",
+                    "tank made of aluminum"
+                ],
+                [
+                    "yellow car",
+                    "sedan made of silk"
+                ]
+            ]
+        }
+    ]
+}

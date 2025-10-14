@@ -1,0 +1,215 @@
+{
+    "image": "natural_img03",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "girl",
+                    "purple-colored female athlete"
+                ],
+                [
+                    "shirt",
+                    "cyan-colored cardigan"
+                ],
+                [
+                    "boy",
+                    "beige-colored girl"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "shirt",
+                    "cyan-colored hoodie"
+                ],
+                [
+                    "boy",
+                    "cyan-colored schoolboy"
+                ],
+                [
+                    "girl",
+                    "yellow-colored boy"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "girl",
+                    "pink-colored female student"
+                ],
+                [
+                    "boy",
+                    "orange-colored girl"
+                ],
+                [
+                    "shirt",
+                    "black-colored cardigan"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "boy",
+                    "white-colored girl"
+                ],
+                [
+                    "girl",
+                    "red-colored female athlete"
+                ],
+                [
+                    "shirt",
+                    "cyan-colored soccer uniform"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "shirt",
+                    "cyan-colored running shirt"
+                ],
+                [
+                    "girl",
+                    "orange-colored boy"
+                ],
+                [
+                    "boy",
+                    "red-colored girl"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "girl",
+                    "maroon-colored female student"
+                ],
+                [
+                    "shirt",
+                    "rust-colored running shirt"
+                ],
+                [
+                    "boy",
+                    "crimson-colored soccer player boy"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "boy",
+                    "green-colored girl"
+                ],
+                [
+                    "girl",
+                    "rust-colored female athlete"
+                ],
+                [
+                    "shirt",
+                    "orange-colored running shirt"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "boy",
+                    "cyan-colored girl"
+                ],
+                [
+                    "girl",
+                    "purple-colored alien"
+                ],
+                [
+                    "shirt",
+                    "beige-colored tank top"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "boy",
+                    "beige-colored girl"
+                ],
+                [
+                    "girl",
+                    "navy-colored woman"
+                ],
+                [
+                    "shirt",
+                    "purple-colored hoodie"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "boy",
+                    "blue-colored soccer player boy"
+                ],
+                [
+                    "shirt",
+                    "sepia-colored sweatshirt"
+                ],
+                [
+                    "girl",
+                    "black-colored female student"
+                ]
+            ]
+        }
+    ]
+}

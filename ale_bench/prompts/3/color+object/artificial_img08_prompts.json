@@ -1,0 +1,215 @@
+{
+    "image": "artificial_img08",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "glasses",
+                    "black-colored sunglass"
+                ],
+                [
+                    "girl",
+                    "pink-colored female student"
+                ],
+                [
+                    "laptop",
+                    "navy-colored tablet"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "footwear",
+                    "brown-colored sneakers"
+                ],
+                [
+                    "girl",
+                    "brown-colored woman"
+                ],
+                [
+                    "glasses",
+                    "cyan-colored safety glasses"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "footwear",
+                    "maroon-colored loafers"
+                ],
+                [
+                    "girl",
+                    "sepia-colored woman"
+                ],
+                [
+                    "glasses",
+                    "cream-colored sunglass"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "girl",
+                    "sepia-colored boy"
+                ],
+                [
+                    "footwear",
+                    "crimson-colored flip flops"
+                ],
+                [
+                    "laptop",
+                    "beige-colored macbook"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "footwear",
+                    "blue-colored ballet flats"
+                ],
+                [
+                    "girl",
+                    "mint-colored boy"
+                ],
+                [
+                    "glasses",
+                    "white-colored goggles"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "girl",
+                    "purple-colored alien"
+                ],
+                [
+                    "glasses",
+                    "brown-colored safety glasses"
+                ],
+                [
+                    "laptop",
+                    "maroon-colored tablet"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "girl",
+                    "rust-colored alien"
+                ],
+                [
+                    "laptop",
+                    "red-colored macbook"
+                ],
+                [
+                    "glasses",
+                    "gray-colored sunglass"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "glasses",
+                    "brown-colored safety glasses"
+                ],
+                [
+                    "girl",
+                    "red-colored boy"
+                ],
+                [
+                    "footwear",
+                    "mint-colored boots"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "glasses",
+                    "white-colored goggles"
+                ],
+                [
+                    "footwear",
+                    "navy-colored flip flops"
+                ],
+                [
+                    "laptop",
+                    "green-colored gaming laptop"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "footwear",
+                    "maroon-colored loafers"
+                ],
+                [
+                    "laptop",
+                    "cyan-colored macbook"
+                ],
+                [
+                    "girl",
+                    "rust-colored boy"
+                ]
+            ]
+        }
+    ]
+}

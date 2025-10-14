@@ -1,0 +1,165 @@
+{
+    "image": "natural_img10",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "yellow macaron",
+                    "purple-colored macaron"
+                ],
+                [
+                    "pink macaron",
+                    "orange-colored macaron"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "green macaron",
+                    "yellow-colored macaron"
+                ],
+                [
+                    "plate",
+                    "rust-colored plate"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "green macaron",
+                    "cream-colored macaron"
+                ],
+                [
+                    "plate",
+                    "cyan-colored plate"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "pink macaron",
+                    "khaki-colored macaron"
+                ],
+                [
+                    "green macaron",
+                    "black-colored macaron"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "green macaron",
+                    "white-colored macaron"
+                ],
+                [
+                    "pink macaron",
+                    "white-colored macaron"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "green macaron",
+                    "navy-colored macaron"
+                ],
+                [
+                    "pink macaron",
+                    "khaki-colored macaron"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "green macaron",
+                    "black-colored macaron"
+                ],
+                [
+                    "pink macaron",
+                    "navy-colored macaron"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "green macaron",
+                    "green-colored macaron"
+                ],
+                [
+                    "pink macaron",
+                    "black-colored macaron"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "yellow macaron",
+                    "crimson-colored macaron"
+                ],
+                [
+                    "plate",
+                    "navy-colored plate"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "plate",
+                    "rust-colored plate"
+                ],
+                [
+                    "green macaron",
+                    "beige-colored macaron"
+                ]
+            ]
+        }
+    ]
+}

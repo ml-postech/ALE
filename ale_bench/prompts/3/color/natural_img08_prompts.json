@@ -1,0 +1,205 @@
+{
+    "image": "natural_img08",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "green car",
+                    "crimson-colored car"
+                ],
+                [
+                    "red car",
+                    "maroon-colored car"
+                ],
+                [
+                    "yellow car",
+                    "beige-colored car"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "yellow car",
+                    "beige-colored car"
+                ],
+                [
+                    "green car",
+                    "navy-colored car"
+                ],
+                [
+                    "red car",
+                    "rust-colored car"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "yellow car",
+                    "red-colored car"
+                ],
+                [
+                    "green car",
+                    "pink-colored car"
+                ],
+                [
+                    "red car",
+                    "pink-colored car"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "red car",
+                    "navy-colored car"
+                ],
+                [
+                    "green car",
+                    "red-colored car"
+                ],
+                [
+                    "yellow car",
+                    "brown-colored car"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "green car",
+                    "khaki-colored car"
+                ],
+                [
+                    "red car",
+                    "khaki-colored car"
+                ],
+                [
+                    "yellow car",
+                    "pink-colored car"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "yellow car",
+                    "yellow-colored car"
+                ],
+                [
+                    "green car",
+                    "green-colored car"
+                ],
+                [
+                    "red car",
+                    "black-colored car"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "yellow car",
+                    "crimson-colored car"
+                ],
+                [
+                    "green car",
+                    "mint-colored car"
+                ],
+                [
+                    "red car",
+                    "blue-colored car"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "red car",
+                    "black-colored car"
+                ],
+                [
+                    "green car",
+                    "white-colored car"
+                ],
+                [
+                    "yellow car",
+                    "sepia-colored car"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "red car",
+                    "yellow-colored car"
+                ],
+                [
+                    "green car",
+                    "blue-colored car"
+                ],
+                [
+                    "yellow car",
+                    "rust-colored car"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "green car",
+                    "cyan-colored car"
+                ],
+                [
+                    "red car",
+                    "gray-colored car"
+                ],
+                [
+                    "yellow car",
+                    "yellow-colored car"
+                ]
+            ]
+        }
+    ]
+}

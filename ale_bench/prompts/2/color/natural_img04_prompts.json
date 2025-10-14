@@ -1,0 +1,165 @@
+{
+    "image": "natural_img04",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "sea",
+                    "blue-colored sea"
+                ],
+                [
+                    "cocktail",
+                    "blue-colored cocktail"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "cocktail",
+                    "purple-colored cocktail"
+                ],
+                [
+                    "sea",
+                    "gray-colored sea"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "sand",
+                    "orange-colored sand"
+                ],
+                [
+                    "sea",
+                    "blue-colored sea"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "sand",
+                    "pink-colored sand"
+                ],
+                [
+                    "sea",
+                    "khaki-colored sea"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "cocktail",
+                    "cyan-colored cocktail"
+                ],
+                [
+                    "sea",
+                    "yellow-colored sea"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "sand",
+                    "rust-colored sand"
+                ],
+                [
+                    "cocktail",
+                    "khaki-colored cocktail"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "sea",
+                    "cream-colored sea"
+                ],
+                [
+                    "cocktail",
+                    "gray-colored cocktail"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "sand",
+                    "maroon-colored sand"
+                ],
+                [
+                    "cocktail",
+                    "maroon-colored cocktail"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "sea",
+                    "khaki-colored sea"
+                ],
+                [
+                    "sand",
+                    "blue-colored sand"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "cocktail",
+                    "pink-colored cocktail"
+                ],
+                [
+                    "sea",
+                    "sepia-colored sea"
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,205 @@
+{
+    "image": "artificial_img02",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "table",
+                    "red-colored table"
+                ],
+                [
+                    "flowerpot",
+                    "purple-colored flowerpot"
+                ],
+                [
+                    "houseplant",
+                    "white-colored houseplant"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "table",
+                    "black-colored table"
+                ],
+                [
+                    "houseplant",
+                    "red-colored houseplant"
+                ],
+                [
+                    "flowerpot",
+                    "blue-colored flowerpot"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "table",
+                    "navy-colored table"
+                ],
+                [
+                    "flowerpot",
+                    "green-colored flowerpot"
+                ],
+                [
+                    "houseplant",
+                    "black-colored houseplant"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "houseplant",
+                    "sepia-colored houseplant"
+                ],
+                [
+                    "flowerpot",
+                    "brown-colored flowerpot"
+                ],
+                [
+                    "table",
+                    "rust-colored table"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "houseplant",
+                    "rust-colored houseplant"
+                ],
+                [
+                    "table",
+                    "orange-colored table"
+                ],
+                [
+                    "flowerpot",
+                    "khaki-colored flowerpot"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "houseplant",
+                    "black-colored houseplant"
+                ],
+                [
+                    "table",
+                    "brown-colored table"
+                ],
+                [
+                    "flowerpot",
+                    "khaki-colored flowerpot"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "table",
+                    "pink-colored table"
+                ],
+                [
+                    "flowerpot",
+                    "red-colored flowerpot"
+                ],
+                [
+                    "houseplant",
+                    "maroon-colored houseplant"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "flowerpot",
+                    "blue-colored flowerpot"
+                ],
+                [
+                    "houseplant",
+                    "mint-colored houseplant"
+                ],
+                [
+                    "table",
+                    "cyan-colored table"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "table",
+                    "pink-colored table"
+                ],
+                [
+                    "flowerpot",
+                    "crimson-colored flowerpot"
+                ],
+                [
+                    "houseplant",
+                    "purple-colored houseplant"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "table",
+                    "cyan-colored table"
+                ],
+                [
+                    "flowerpot",
+                    "white-colored flowerpot"
+                ],
+                [
+                    "houseplant",
+                    "sepia-colored houseplant"
+                ]
+            ]
+        }
+    ]
+}

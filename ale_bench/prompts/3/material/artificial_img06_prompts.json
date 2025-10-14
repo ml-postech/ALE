@@ -1,0 +1,205 @@
+{
+    "image": "artificial_img06",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "table",
+                    "table made of granite"
+                ],
+                [
+                    "teapot",
+                    "teapot made of foam"
+                ],
+                [
+                    "floor",
+                    "floor made of steel"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "teapot",
+                    "teapot made of gold"
+                ],
+                [
+                    "table",
+                    "table made of ivory"
+                ],
+                [
+                    "chair",
+                    "chair made of graphite"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "teapot",
+                    "teapot made of silver"
+                ],
+                [
+                    "table",
+                    "table made of amber"
+                ],
+                [
+                    "floor",
+                    "floor made of bamboo"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "floor made of crystal"
+                ],
+                [
+                    "teapot",
+                    "teapot made of wool"
+                ],
+                [
+                    "chair",
+                    "chair made of bamboo"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "teapot",
+                    "teapot made of linen"
+                ],
+                [
+                    "chair",
+                    "chair made of jade"
+                ],
+                [
+                    "floor",
+                    "floor made of ivory"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "table",
+                    "table made of ceramic"
+                ],
+                [
+                    "chair",
+                    "chair made of resin"
+                ],
+                [
+                    "teapot",
+                    "teapot made of asphalt"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "chair",
+                    "chair made of chrome"
+                ],
+                [
+                    "table",
+                    "table made of ivory"
+                ],
+                [
+                    "teapot",
+                    "teapot made of marble"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "floor made of turquoise"
+                ],
+                [
+                    "table",
+                    "table made of steel"
+                ],
+                [
+                    "chair",
+                    "chair made of ruby"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "floor made of velvet"
+                ],
+                [
+                    "chair",
+                    "chair made of acrylic"
+                ],
+                [
+                    "teapot",
+                    "teapot made of plastic"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "table",
+                    "table made of amethyst"
+                ],
+                [
+                    "chair",
+                    "chair made of acrylic"
+                ],
+                [
+                    "floor",
+                    "floor made of velvet"
+                ]
+            ]
+        }
+    ]
+}

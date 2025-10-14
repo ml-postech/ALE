@@ -1,0 +1,175 @@
+{
+    "image": "artificial_img01",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "yellow-colored savanna"
+                ],
+                [
+                    "couch",
+                    "navy-colored boat"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "tree",
+                    "pink-colored pine tree"
+                ],
+                [
+                    "couch",
+                    "blue-colored desk"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "tree",
+                    "mint-colored birch tree"
+                ],
+                [
+                    "floor",
+                    "green-colored wheat field"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "mint-colored tile"
+                ],
+                [
+                    "couch",
+                    "cyan-colored bench"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "tree",
+                    "blue-colored Christmas tree"
+                ],
+                [
+                    "couch",
+                    "blue-colored boat"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "tree",
+                    "rust-colored cloud tree"
+                ],
+                [
+                    "floor",
+                    "cyan-colored savanna"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "crimson-colored ground"
+                ],
+                [
+                    "tree",
+                    "green-colored palm tree"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "mint-colored savanna"
+                ],
+                [
+                    "tree",
+                    "red-colored cotton candy tree"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "black-colored lawn"
+                ],
+                [
+                    "tree",
+                    "rust-colored pine tree"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "tree",
+                    "rust-colored palm tree"
+                ],
+                [
+                    "floor",
+                    "gray-colored swamp"
+                ]
+            ]
+        }
+    ]
+}

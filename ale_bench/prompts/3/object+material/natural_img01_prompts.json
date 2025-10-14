@@ -1,0 +1,215 @@
+{
+    "image": "natural_img01",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "box",
+                    "rock made of clay"
+                ],
+                [
+                    "orange globe",
+                    "fire made of crystal"
+                ],
+                [
+                    "blue globe",
+                    "ice made of bronze"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "blue globe",
+                    "egg made of foam"
+                ],
+                [
+                    "orange globe",
+                    "moon made of amethyst"
+                ],
+                [
+                    "cone",
+                    "Christmas tree made of plastic"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "cone",
+                    "ice cream made of acrylic"
+                ],
+                [
+                    "box",
+                    "cheese made of foam"
+                ],
+                [
+                    "blue globe",
+                    "tree made of ceramic"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "box",
+                    "cheese made of diamond"
+                ],
+                [
+                    "blue globe",
+                    "ice made of marble"
+                ],
+                [
+                    "cone",
+                    "Christmas tree made of gold"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "cone",
+                    "Christmas tree made of resin"
+                ],
+                [
+                    "blue globe",
+                    "ice made of rubber"
+                ],
+                [
+                    "orange globe",
+                    "fire made of bronze"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "box",
+                    "sponge made of steel"
+                ],
+                [
+                    "blue globe",
+                    "tree made of turquoise"
+                ],
+                [
+                    "cone",
+                    "traffic cone made of resin"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "box",
+                    "noodle box made of clay"
+                ],
+                [
+                    "cone",
+                    "ice cream made of silver"
+                ],
+                [
+                    "orange globe",
+                    "balloon made of wool"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "blue globe",
+                    "balloon made of graphite"
+                ],
+                [
+                    "orange globe",
+                    "fire made of bamboo"
+                ],
+                [
+                    "cone",
+                    "traffic cone made of steel"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "orange globe",
+                    "soccer ball made of chrome"
+                ],
+                [
+                    "box",
+                    "rock made of linen"
+                ],
+                [
+                    "cone",
+                    "traffic cone made of gold"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "box",
+                    "rock made of marble"
+                ],
+                [
+                    "orange globe",
+                    "fire made of amber"
+                ],
+                [
+                    "blue globe",
+                    "tree made of asphalt"
+                ]
+            ]
+        }
+    ]
+}

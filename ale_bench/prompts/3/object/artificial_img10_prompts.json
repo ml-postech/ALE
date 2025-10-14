@@ -1,0 +1,205 @@
+{
+    "image": "artificial_img10",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "tree",
+                    "pine tree"
+                ],
+                [
+                    "flowerpot",
+                    "mug"
+                ],
+                [
+                    "floor",
+                    "ground"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "meadow"
+                ],
+                [
+                    "wall",
+                    "curtain"
+                ],
+                [
+                    "flowerpot",
+                    "vase"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "wall",
+                    "curtain"
+                ],
+                [
+                    "floor",
+                    "deck"
+                ],
+                [
+                    "tree",
+                    "willow tree"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "meadow"
+                ],
+                [
+                    "wall",
+                    "partition"
+                ],
+                [
+                    "flowerpot",
+                    "urn"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "tree",
+                    "maple tree"
+                ],
+                [
+                    "wall",
+                    "fence"
+                ],
+                [
+                    "flowerpot",
+                    "lantern"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "savanna"
+                ],
+                [
+                    "wall",
+                    "curtain"
+                ],
+                [
+                    "flowerpot",
+                    "vase"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "flowerpot",
+                    "jar"
+                ],
+                [
+                    "tree",
+                    "cotton candy tree"
+                ],
+                [
+                    "wall",
+                    "fence"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "tree",
+                    "birch tree"
+                ],
+                [
+                    "floor",
+                    "mat"
+                ],
+                [
+                    "wall",
+                    "window"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "active fire area"
+                ],
+                [
+                    "wall",
+                    "curtain"
+                ],
+                [
+                    "tree",
+                    "oak tree"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "lake"
+                ],
+                [
+                    "wall",
+                    "fence"
+                ],
+                [
+                    "flowerpot",
+                    "lantern"
+                ]
+            ]
+        }
+    ]
+}

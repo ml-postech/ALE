@@ -1,0 +1,205 @@
+{
+    "image": "natural_img09",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "footwear",
+                    "orange-colored footwear"
+                ],
+                [
+                    "man",
+                    "brown-colored man"
+                ],
+                [
+                    "yoga mat",
+                    "blue-colored yoga mat"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "man",
+                    "navy-colored man"
+                ],
+                [
+                    "yoga mat",
+                    "cyan-colored yoga mat"
+                ],
+                [
+                    "footwear",
+                    "maroon-colored footwear"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "man",
+                    "orange-colored man"
+                ],
+                [
+                    "yoga mat",
+                    "pink-colored yoga mat"
+                ],
+                [
+                    "footwear",
+                    "purple-colored footwear"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "yoga mat",
+                    "purple-colored yoga mat"
+                ],
+                [
+                    "footwear",
+                    "black-colored footwear"
+                ],
+                [
+                    "man",
+                    "pink-colored man"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "yoga mat",
+                    "orange-colored yoga mat"
+                ],
+                [
+                    "man",
+                    "khaki-colored man"
+                ],
+                [
+                    "footwear",
+                    "navy-colored footwear"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "man",
+                    "navy-colored man"
+                ],
+                [
+                    "yoga mat",
+                    "yellow-colored yoga mat"
+                ],
+                [
+                    "footwear",
+                    "mint-colored footwear"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "footwear",
+                    "mint-colored footwear"
+                ],
+                [
+                    "yoga mat",
+                    "maroon-colored yoga mat"
+                ],
+                [
+                    "man",
+                    "cyan-colored man"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "footwear",
+                    "maroon-colored footwear"
+                ],
+                [
+                    "man",
+                    "orange-colored man"
+                ],
+                [
+                    "yoga mat",
+                    "brown-colored yoga mat"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "man",
+                    "gray-colored man"
+                ],
+                [
+                    "yoga mat",
+                    "beige-colored yoga mat"
+                ],
+                [
+                    "footwear",
+                    "sepia-colored footwear"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "yoga mat",
+                    "mint-colored yoga mat"
+                ],
+                [
+                    "man",
+                    "crimson-colored man"
+                ],
+                [
+                    "footwear",
+                    "red-colored footwear"
+                ]
+            ]
+        }
+    ]
+}

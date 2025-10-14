@@ -1,0 +1,175 @@
+{
+    "image": "artificial_img04",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "cloud",
+                    "cotton candy made of resin"
+                ],
+                [
+                    "sun",
+                    "UFO made of granite"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "sun",
+                    "balloon made of acrylic"
+                ],
+                [
+                    "cloud",
+                    "ghost made of diamond"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "sun",
+                    "egg made of jade"
+                ],
+                [
+                    "cloud",
+                    "toxic gas made of amethyst"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "parasol",
+                    "flower made of plastic"
+                ],
+                [
+                    "cloud",
+                    "ghost made of paper"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "cloud",
+                    "ghost made of marble"
+                ],
+                [
+                    "parasol",
+                    "flower made of silk"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "parasol",
+                    "flower made of asphalt"
+                ],
+                [
+                    "sun",
+                    "moon made of glass"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "cloud",
+                    "cotton candy made of ivory"
+                ],
+                [
+                    "sun",
+                    "soccer ball made of paper"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "sun",
+                    "UFO made of aluminum"
+                ],
+                [
+                    "cloud",
+                    "toxic gas made of latex"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "parasol",
+                    "tree made of diamond"
+                ],
+                [
+                    "cloud",
+                    "cotton candy made of silver"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "sun",
+                    "egg made of acrylic"
+                ],
+                [
+                    "cloud",
+                    "ghost made of wood"
+                ]
+            ]
+        }
+    ]
+}

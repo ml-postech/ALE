@@ -1,0 +1,215 @@
+{
+    "image": "artificial_img01",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "couch",
+                    "sepia-colored desk"
+                ],
+                [
+                    "floor",
+                    "green-colored carpet"
+                ],
+                [
+                    "tree",
+                    "brown-colored palm tree"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "yellow-colored sea"
+                ],
+                [
+                    "couch",
+                    "navy-colored boat"
+                ],
+                [
+                    "tree",
+                    "sepia-colored palm tree"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "couch",
+                    "rust-colored bench"
+                ],
+                [
+                    "floor",
+                    "khaki-colored lawn"
+                ],
+                [
+                    "tree",
+                    "pink-colored pine tree"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "couch",
+                    "rust-colored boat"
+                ],
+                [
+                    "tree",
+                    "crimson-colored maple tree"
+                ],
+                [
+                    "floor",
+                    "black-colored deck"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "couch",
+                    "white-colored bench"
+                ],
+                [
+                    "floor",
+                    "green-colored deck"
+                ],
+                [
+                    "tree",
+                    "navy-colored cotton candy tree"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "couch",
+                    "khaki-colored bed"
+                ],
+                [
+                    "tree",
+                    "cyan-colored Christmas tree"
+                ],
+                [
+                    "floor",
+                    "green-colored ground"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "couch",
+                    "maroon-colored desk"
+                ],
+                [
+                    "tree",
+                    "gray-colored oak tree"
+                ],
+                [
+                    "floor",
+                    "yellow-colored desert"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "couch",
+                    "mint-colored desk"
+                ],
+                [
+                    "tree",
+                    "pink-colored cloud tree"
+                ],
+                [
+                    "floor",
+                    "rust-colored dirt"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "couch",
+                    "mint-colored bed"
+                ],
+                [
+                    "floor",
+                    "beige-colored mat"
+                ],
+                [
+                    "tree",
+                    "rust-colored palm tree"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "couch",
+                    "red-colored desk"
+                ],
+                [
+                    "tree",
+                    "cream-colored Christmas tree"
+                ],
+                [
+                    "floor",
+                    "beige-colored carpet"
+                ]
+            ]
+        }
+    ]
+}

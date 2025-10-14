@@ -1,0 +1,175 @@
+{
+    "image": "artificial_img05",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "book",
+                    "journal made of gold"
+                ],
+                [
+                    "cup",
+                    "mug made of amethyst"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "steam",
+                    "tornado made of silk"
+                ],
+                [
+                    "book",
+                    "diary made of copper"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "book",
+                    "journal made of acrylic"
+                ],
+                [
+                    "steam",
+                    "toxic gas made of clay"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "book",
+                    "diary made of rubber"
+                ],
+                [
+                    "cup",
+                    "tankard made of clay"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "cup",
+                    "beaker made of linen"
+                ],
+                [
+                    "steam",
+                    "smoke made of ivory"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "steam",
+                    "smoke made of asphalt"
+                ],
+                [
+                    "book",
+                    "diary made of chrome"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "book",
+                    "cushion made of granite"
+                ],
+                [
+                    "cup",
+                    "bowl made of granite"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "steam",
+                    "toxic gas made of velvet"
+                ],
+                [
+                    "cup",
+                    "jar made of plastic"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "cup",
+                    "tumbler made of ruby"
+                ],
+                [
+                    "steam",
+                    "cloud made of graphite"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "cup",
+                    "beaker made of resin"
+                ],
+                [
+                    "book",
+                    "platform made of aluminum"
+                ]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,205 @@
+{
+    "image": "artificial_img03",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "moon",
+                    "sepia-colored moon"
+                ],
+                [
+                    "wolf",
+                    "rust-colored wolf"
+                ],
+                [
+                    "mountain",
+                    "navy-colored mountain"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "moon",
+                    "purple-colored moon"
+                ],
+                [
+                    "mountain",
+                    "gray-colored mountain"
+                ],
+                [
+                    "wolf",
+                    "pink-colored wolf"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "moon",
+                    "black-colored moon"
+                ],
+                [
+                    "mountain",
+                    "cream-colored mountain"
+                ],
+                [
+                    "wolf",
+                    "black-colored wolf"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "mountain",
+                    "orange-colored mountain"
+                ],
+                [
+                    "moon",
+                    "gray-colored moon"
+                ],
+                [
+                    "wolf",
+                    "maroon-colored wolf"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "moon",
+                    "purple-colored moon"
+                ],
+                [
+                    "mountain",
+                    "sepia-colored mountain"
+                ],
+                [
+                    "wolf",
+                    "pink-colored wolf"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "moon",
+                    "orange-colored moon"
+                ],
+                [
+                    "wolf",
+                    "purple-colored wolf"
+                ],
+                [
+                    "mountain",
+                    "pink-colored mountain"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "wolf",
+                    "beige-colored wolf"
+                ],
+                [
+                    "moon",
+                    "mint-colored moon"
+                ],
+                [
+                    "mountain",
+                    "gray-colored mountain"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "wolf",
+                    "red-colored wolf"
+                ],
+                [
+                    "mountain",
+                    "navy-colored mountain"
+                ],
+                [
+                    "moon",
+                    "white-colored moon"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "moon",
+                    "cream-colored moon"
+                ],
+                [
+                    "wolf",
+                    "blue-colored wolf"
+                ],
+                [
+                    "mountain",
+                    "green-colored mountain"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "moon",
+                    "sepia-colored moon"
+                ],
+                [
+                    "mountain",
+                    "black-colored mountain"
+                ],
+                [
+                    "wolf",
+                    "yellow-colored wolf"
+                ]
+            ]
+        }
+    ]
+}

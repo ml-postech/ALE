@@ -1,0 +1,165 @@
+{
+    "image": "artificial_img01",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "floor made of leather"
+                ],
+                [
+                    "couch",
+                    "couch made of turquoise"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "floor made of granite"
+                ],
+                [
+                    "couch",
+                    "couch made of chrome"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "tree",
+                    "tree made of resin"
+                ],
+                [
+                    "couch",
+                    "couch made of gold"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "couch",
+                    "couch made of latex"
+                ],
+                [
+                    "tree",
+                    "tree made of jade"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "tree",
+                    "tree made of resin"
+                ],
+                [
+                    "couch",
+                    "couch made of diamond"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "floor made of aluminum"
+                ],
+                [
+                    "couch",
+                    "couch made of linen"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "couch",
+                    "couch made of crystal"
+                ],
+                [
+                    "tree",
+                    "tree made of bronze"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "floor made of crystal"
+                ],
+                [
+                    "couch",
+                    "couch made of acrylic"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "couch",
+                    "couch made of sapphire"
+                ],
+                [
+                    "tree",
+                    "tree made of foam"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "material"
+            ],
+            "edits": [
+                [
+                    "tree",
+                    "tree made of ivory"
+                ],
+                [
+                    "couch",
+                    "couch made of linen"
+                ]
+            ]
+        }
+    ]
+}

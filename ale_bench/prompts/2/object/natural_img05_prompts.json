@@ -1,0 +1,165 @@
+{
+    "image": "natural_img05",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "white pot",
+                    "bucket"
+                ],
+                [
+                    "sketchbook",
+                    "planner"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "plant",
+                    "herb"
+                ],
+                [
+                    "white pot",
+                    "urn"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "white pot",
+                    "mug"
+                ],
+                [
+                    "plant",
+                    "fern"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "sketchbook",
+                    "journal"
+                ],
+                [
+                    "plant",
+                    "tree"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "plant",
+                    "broccoli"
+                ],
+                [
+                    "white pot",
+                    "urn"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "sketchbook",
+                    "drawing pad"
+                ],
+                [
+                    "plant",
+                    "cactus"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "white pot",
+                    "basket"
+                ],
+                [
+                    "sketchbook",
+                    "portfolio"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "white pot",
+                    "urn"
+                ],
+                [
+                    "plant",
+                    "fern"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "plant",
+                    "cactus"
+                ],
+                [
+                    "white pot",
+                    "basket"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "object"
+            ],
+            "edits": [
+                [
+                    "sketchbook",
+                    "notebook"
+                ],
+                [
+                    "plant",
+                    "herb"
+                ]
+            ]
+        }
+    ]
+}

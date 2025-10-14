@@ -1,0 +1,215 @@
+{
+    "image": "artificial_img03",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "moon",
+                    "red-colored balloon"
+                ],
+                [
+                    "mountain",
+                    "khaki-colored garden"
+                ],
+                [
+                    "wolf",
+                    "white-colored dragon"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "moon",
+                    "blue-colored soccer ball"
+                ],
+                [
+                    "mountain",
+                    "white-colored wave"
+                ],
+                [
+                    "wolf",
+                    "cream-colored eagle"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "wolf",
+                    "cyan-colored goat"
+                ],
+                [
+                    "mountain",
+                    "crimson-colored wave"
+                ],
+                [
+                    "moon",
+                    "red-colored soccer ball"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "moon",
+                    "navy-colored soccer ball"
+                ],
+                [
+                    "wolf",
+                    "gray-colored horse"
+                ],
+                [
+                    "mountain",
+                    "maroon-colored garden"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "mountain",
+                    "brown-colored garden"
+                ],
+                [
+                    "wolf",
+                    "crimson-colored dragon"
+                ],
+                [
+                    "moon",
+                    "navy-colored soccer ball"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "wolf",
+                    "beige-colored cat"
+                ],
+                [
+                    "mountain",
+                    "green-colored hill"
+                ],
+                [
+                    "moon",
+                    "beige-colored balloon"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "moon",
+                    "green-colored soccer ball"
+                ],
+                [
+                    "wolf",
+                    "cream-colored lion"
+                ],
+                [
+                    "mountain",
+                    "crimson-colored garden"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "mountain",
+                    "crimson-colored forest"
+                ],
+                [
+                    "moon",
+                    "rust-colored soccer ball"
+                ],
+                [
+                    "wolf",
+                    "cyan-colored tiger"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "mountain",
+                    "orange-colored garden"
+                ],
+                [
+                    "moon",
+                    "orange-colored soccer ball"
+                ],
+                [
+                    "wolf",
+                    "cyan-colored horse"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "mountain",
+                    "cyan-colored forest"
+                ],
+                [
+                    "wolf",
+                    "blue-colored horse"
+                ],
+                [
+                    "moon",
+                    "khaki-colored soccer ball"
+                ]
+            ]
+        }
+    ]
+}

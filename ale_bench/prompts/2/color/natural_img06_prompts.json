@@ -1,0 +1,165 @@
+{
+    "image": "natural_img06",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "sunglass",
+                    "brown-colored sunglass"
+                ],
+                [
+                    "watch",
+                    "gray-colored watch"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "watch",
+                    "white-colored watch"
+                ],
+                [
+                    "knife",
+                    "rust-colored knife"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "sunglass",
+                    "blue-colored sunglass"
+                ],
+                [
+                    "knife",
+                    "yellow-colored knife"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "sunglass",
+                    "purple-colored sunglass"
+                ],
+                [
+                    "watch",
+                    "maroon-colored watch"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "watch",
+                    "yellow-colored watch"
+                ],
+                [
+                    "sunglass",
+                    "rust-colored sunglass"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "sunglass",
+                    "sepia-colored sunglass"
+                ],
+                [
+                    "watch",
+                    "black-colored watch"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "knife",
+                    "mint-colored knife"
+                ],
+                [
+                    "watch",
+                    "orange-colored watch"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "sunglass",
+                    "beige-colored sunglass"
+                ],
+                [
+                    "watch",
+                    "khaki-colored watch"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "sunglass",
+                    "black-colored sunglass"
+                ],
+                [
+                    "knife",
+                    "sepia-colored knife"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "knife",
+                    "cream-colored knife"
+                ],
+                [
+                    "sunglass",
+                    "navy-colored sunglass"
+                ]
+            ]
+        }
+    ]
+}

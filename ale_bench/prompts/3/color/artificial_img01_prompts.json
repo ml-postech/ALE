@@ -1,0 +1,205 @@
+{
+    "image": "artificial_img01",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "black-colored floor"
+                ],
+                [
+                    "couch",
+                    "purple-colored couch"
+                ],
+                [
+                    "tree",
+                    "sepia-colored tree"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "mint-colored floor"
+                ],
+                [
+                    "tree",
+                    "sepia-colored tree"
+                ],
+                [
+                    "couch",
+                    "green-colored couch"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "beige-colored floor"
+                ],
+                [
+                    "couch",
+                    "red-colored couch"
+                ],
+                [
+                    "tree",
+                    "khaki-colored tree"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "tree",
+                    "cream-colored tree"
+                ],
+                [
+                    "floor",
+                    "yellow-colored floor"
+                ],
+                [
+                    "couch",
+                    "sepia-colored couch"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "couch",
+                    "rust-colored couch"
+                ],
+                [
+                    "tree",
+                    "pink-colored tree"
+                ],
+                [
+                    "floor",
+                    "white-colored floor"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "tree",
+                    "orange-colored tree"
+                ],
+                [
+                    "floor",
+                    "mint-colored floor"
+                ],
+                [
+                    "couch",
+                    "mint-colored couch"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "tree",
+                    "blue-colored tree"
+                ],
+                [
+                    "floor",
+                    "rust-colored floor"
+                ],
+                [
+                    "couch",
+                    "navy-colored couch"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "couch",
+                    "white-colored couch"
+                ],
+                [
+                    "tree",
+                    "brown-colored tree"
+                ],
+                [
+                    "floor",
+                    "sepia-colored floor"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "couch",
+                    "blue-colored couch"
+                ],
+                [
+                    "tree",
+                    "khaki-colored tree"
+                ],
+                [
+                    "floor",
+                    "purple-colored floor"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "tree",
+                    "cream-colored tree"
+                ],
+                [
+                    "floor",
+                    "yellow-colored floor"
+                ],
+                [
+                    "couch",
+                    "green-colored couch"
+                ]
+            ]
+        }
+    ]
+}

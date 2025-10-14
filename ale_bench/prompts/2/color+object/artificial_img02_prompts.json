@@ -1,0 +1,175 @@
+{
+    "image": "artificial_img02",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "flowerpot",
+                    "mint-colored mug"
+                ],
+                [
+                    "houseplant",
+                    "mint-colored fern"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "houseplant",
+                    "gray-colored palm tree"
+                ],
+                [
+                    "flowerpot",
+                    "red-colored basket"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "flowerpot",
+                    "beige-colored basket"
+                ],
+                [
+                    "houseplant",
+                    "beige-colored bonsai"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "houseplant",
+                    "rust-colored bonsai"
+                ],
+                [
+                    "table",
+                    "maroon-colored dining table"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "flowerpot",
+                    "beige-colored lantern"
+                ],
+                [
+                    "houseplant",
+                    "black-colored broccoli"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "table",
+                    "gray-colored coffee table"
+                ],
+                [
+                    "flowerpot",
+                    "beige-colored bucket"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "houseplant",
+                    "orange-colored fern"
+                ],
+                [
+                    "table",
+                    "yellow-colored nightstand"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "table",
+                    "white-colored nightstand"
+                ],
+                [
+                    "flowerpot",
+                    "pink-colored jar"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "houseplant",
+                    "blue-colored broccoli"
+                ],
+                [
+                    "table",
+                    "red-colored dining table"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color",
+                "object"
+            ],
+            "edits": [
+                [
+                    "houseplant",
+                    "white-colored bush"
+                ],
+                [
+                    "flowerpot",
+                    "cyan-colored lantern"
+                ]
+            ]
+        }
+    ]
+}

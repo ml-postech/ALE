@@ -1,0 +1,165 @@
+{
+    "image": "artificial_img03",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "wolf",
+                    "cream-colored wolf"
+                ],
+                [
+                    "mountain",
+                    "crimson-colored mountain"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "wolf",
+                    "green-colored wolf"
+                ],
+                [
+                    "moon",
+                    "black-colored moon"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "moon",
+                    "brown-colored moon"
+                ],
+                [
+                    "wolf",
+                    "red-colored wolf"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "moon",
+                    "maroon-colored moon"
+                ],
+                [
+                    "wolf",
+                    "navy-colored wolf"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "mountain",
+                    "brown-colored mountain"
+                ],
+                [
+                    "wolf",
+                    "orange-colored wolf"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "wolf",
+                    "cyan-colored wolf"
+                ],
+                [
+                    "mountain",
+                    "mint-colored mountain"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "moon",
+                    "sepia-colored moon"
+                ],
+                [
+                    "mountain",
+                    "red-colored mountain"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "moon",
+                    "rust-colored moon"
+                ],
+                [
+                    "wolf",
+                    "sepia-colored wolf"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "moon",
+                    "crimson-colored moon"
+                ],
+                [
+                    "mountain",
+                    "orange-colored mountain"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "wolf",
+                    "rust-colored wolf"
+                ],
+                [
+                    "mountain",
+                    "gray-colored mountain"
+                ]
+            ]
+        }
+    ]
+}

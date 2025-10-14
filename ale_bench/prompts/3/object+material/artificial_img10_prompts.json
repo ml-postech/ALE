@@ -1,0 +1,215 @@
+{
+    "image": "artificial_img10",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "tree",
+                    "oak tree made of leather"
+                ],
+                [
+                    "flowerpot",
+                    "basket made of jade"
+                ],
+                [
+                    "wall",
+                    "curtain made of foam"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "tree",
+                    "palm tree made of sapphire"
+                ],
+                [
+                    "wall",
+                    "window made of linen"
+                ],
+                [
+                    "flowerpot",
+                    "jar made of copper"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "tree",
+                    "birch tree made of glass"
+                ],
+                [
+                    "floor",
+                    "desert made of rubber"
+                ],
+                [
+                    "wall",
+                    "fence made of velvet"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "flowerpot",
+                    "urn made of aluminum"
+                ],
+                [
+                    "floor",
+                    "desert made of bronze"
+                ],
+                [
+                    "wall",
+                    "window made of silk"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "tree",
+                    "pine tree made of asphalt"
+                ],
+                [
+                    "floor",
+                    "dirt made of crystal"
+                ],
+                [
+                    "wall",
+                    "window made of silver"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "sea made of leather"
+                ],
+                [
+                    "flowerpot",
+                    "bucket made of bamboo"
+                ],
+                [
+                    "wall",
+                    "fence made of copper"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "savanna made of ivory"
+                ],
+                [
+                    "tree",
+                    "cotton candy tree made of velvet"
+                ],
+                [
+                    "flowerpot",
+                    "lantern made of linen"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "tree",
+                    "palm tree made of steel"
+                ],
+                [
+                    "floor",
+                    "ground made of linen"
+                ],
+                [
+                    "flowerpot",
+                    "bucket made of amethyst"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "wall",
+                    "fence made of steel"
+                ],
+                [
+                    "flowerpot",
+                    "urn made of gold"
+                ],
+                [
+                    "floor",
+                    "desert made of amethyst"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "floor",
+                    "tile made of foam"
+                ],
+                [
+                    "wall",
+                    "window made of glass"
+                ],
+                [
+                    "tree",
+                    "birch tree made of wood"
+                ]
+            ]
+        }
+    ]
+}

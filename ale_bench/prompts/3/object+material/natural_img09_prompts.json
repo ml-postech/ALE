@@ -1,0 +1,215 @@
+{
+    "image": "natural_img09",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "yoga mat",
+                    "ice made of turquoise"
+                ],
+                [
+                    "footwear",
+                    "ballet flats made of paper"
+                ],
+                [
+                    "man",
+                    "old man made of latex"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "footwear",
+                    "loafers made of granite"
+                ],
+                [
+                    "man",
+                    "woman made of chrome"
+                ],
+                [
+                    "yoga mat",
+                    "towel made of paper"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "footwear",
+                    "slippers made of velvet"
+                ],
+                [
+                    "yoga mat",
+                    "carpet made of linen"
+                ],
+                [
+                    "man",
+                    "alien made of silk"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "yoga mat",
+                    "blanket made of asphalt"
+                ],
+                [
+                    "footwear",
+                    "clogs made of emerald"
+                ],
+                [
+                    "man",
+                    "male worker made of copper"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "footwear",
+                    "sneakers made of wool"
+                ],
+                [
+                    "yoga mat",
+                    "gym mat made of paper"
+                ],
+                [
+                    "man",
+                    "old man made of marble"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "footwear",
+                    "clogs made of diamond"
+                ],
+                [
+                    "man",
+                    "woman made of granite"
+                ],
+                [
+                    "yoga mat",
+                    "blanket made of amber"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "man",
+                    "male researcher made of emerald"
+                ],
+                [
+                    "yoga mat",
+                    "ice made of foam"
+                ],
+                [
+                    "footwear",
+                    "flip flops made of copper"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "man",
+                    "alien made of bronze"
+                ],
+                [
+                    "yoga mat",
+                    "towel made of silk"
+                ],
+                [
+                    "footwear",
+                    "moccasins made of latex"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "footwear",
+                    "flip flops made of paper"
+                ],
+                [
+                    "yoga mat",
+                    "ice made of wool"
+                ],
+                [
+                    "man",
+                    "male researcher made of silver"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "object",
+                "material"
+            ],
+            "edits": [
+                [
+                    "man",
+                    "alien made of steel"
+                ],
+                [
+                    "footwear",
+                    "moccasins made of aluminum"
+                ],
+                [
+                    "yoga mat",
+                    "ice made of sapphire"
+                ]
+            ]
+        }
+    ]
+}

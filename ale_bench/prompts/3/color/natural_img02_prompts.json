@@ -1,0 +1,205 @@
+{
+    "image": "natural_img02",
+    "prompts": [
+        {
+            "index": 0,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "red bell pepper",
+                    "cyan-colored bell pepper"
+                ],
+                [
+                    "green bell pepper",
+                    "sepia-colored bell pepper"
+                ],
+                [
+                    "yellow bell pepper",
+                    "beige-colored bell pepper"
+                ]
+            ]
+        },
+        {
+            "index": 1,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "yellow bell pepper",
+                    "cyan-colored bell pepper"
+                ],
+                [
+                    "green bell pepper",
+                    "blue-colored bell pepper"
+                ],
+                [
+                    "red bell pepper",
+                    "navy-colored bell pepper"
+                ]
+            ]
+        },
+        {
+            "index": 2,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "red bell pepper",
+                    "rust-colored bell pepper"
+                ],
+                [
+                    "green bell pepper",
+                    "blue-colored bell pepper"
+                ],
+                [
+                    "yellow bell pepper",
+                    "green-colored bell pepper"
+                ]
+            ]
+        },
+        {
+            "index": 3,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "red bell pepper",
+                    "cream-colored bell pepper"
+                ],
+                [
+                    "green bell pepper",
+                    "purple-colored bell pepper"
+                ],
+                [
+                    "yellow bell pepper",
+                    "red-colored bell pepper"
+                ]
+            ]
+        },
+        {
+            "index": 4,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "yellow bell pepper",
+                    "orange-colored bell pepper"
+                ],
+                [
+                    "green bell pepper",
+                    "green-colored bell pepper"
+                ],
+                [
+                    "red bell pepper",
+                    "black-colored bell pepper"
+                ]
+            ]
+        },
+        {
+            "index": 5,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "red bell pepper",
+                    "maroon-colored bell pepper"
+                ],
+                [
+                    "green bell pepper",
+                    "crimson-colored bell pepper"
+                ],
+                [
+                    "yellow bell pepper",
+                    "blue-colored bell pepper"
+                ]
+            ]
+        },
+        {
+            "index": 6,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "red bell pepper",
+                    "navy-colored bell pepper"
+                ],
+                [
+                    "yellow bell pepper",
+                    "navy-colored bell pepper"
+                ],
+                [
+                    "green bell pepper",
+                    "cyan-colored bell pepper"
+                ]
+            ]
+        },
+        {
+            "index": 7,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "yellow bell pepper",
+                    "maroon-colored bell pepper"
+                ],
+                [
+                    "red bell pepper",
+                    "brown-colored bell pepper"
+                ],
+                [
+                    "green bell pepper",
+                    "rust-colored bell pepper"
+                ]
+            ]
+        },
+        {
+            "index": 8,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "green bell pepper",
+                    "red-colored bell pepper"
+                ],
+                [
+                    "yellow bell pepper",
+                    "purple-colored bell pepper"
+                ],
+                [
+                    "red bell pepper",
+                    "mint-colored bell pepper"
+                ]
+            ]
+        },
+        {
+            "index": 9,
+            "editing_types": [
+                "color"
+            ],
+            "edits": [
+                [
+                    "red bell pepper",
+                    "white-colored bell pepper"
+                ],
+                [
+                    "green bell pepper",
+                    "white-colored bell pepper"
+                ],
+                [
+                    "yellow bell pepper",
+                    "cyan-colored bell pepper"
+                ]
+            ]
+        }
+    ]
+}
