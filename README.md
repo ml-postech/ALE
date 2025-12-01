@@ -54,9 +54,9 @@ README.md
 ```bash
 conda env create -f environment.yaml
 ```
-2️⃣ Install [SAM2](https://github.com/facebookresearch/sam2)
+2️⃣ Install [Grounded SAM2]([https://github.com/facebookresearch/sam2](https://github.com/IDEA-Research/Grounded-SAM-2))
 
-Follow the official [installation instructions](https://github.com/facebookresearch/sam2?tab=readme-ov-file#installation).
+Follow the official [installation instructions](https://github.com/IDEA-Research/Grounded-SAM-2?tab=readme-ov-file#installation).
 
 3️⃣ Activate the environment
 ```bash
